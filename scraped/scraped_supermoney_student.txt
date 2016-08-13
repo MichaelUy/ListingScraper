@@ -1,0 +1,103 @@
+Source:	https://www.supermoney.com/reviews/student-loans
+Date:	Friday 12th of August 2016 11:29:49 AM
+# of Offers:	24
+Fields||Targets:
+	Name	||tr td.bizlist-logo span.hide
+	Loan Term	||tr>td.bizlist-icons>div.compare-loan-term-years
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Offer:	0
+	Name:		SoFi
+	Loan Term:		5-20
+
+Offer:	1
+	Name:		LendKey
+	Loan Term:		5-15
+
+Offer:	2
+	Name:		Upstart Loans
+	Loan Term:		0-3
+
+Offer:	3
+	Name:		WeFinance
+	Loan Term:		0-0
+
+Offer:	4
+	Name:		SallieMae
+	Loan Term:		15-15
+
+Offer:	5
+	Name:		Discover Bank
+	Loan Term:		15-15
+
+Offer:	6
+	Name:		DOCUPOP
+	Loan Term:		0-0
+
+Offer:	7
+	Name:		Earnest
+	Loan Term:		5-20
+
+Offer:	8
+	Name:		PNC Bank
+	Loan Term:		0-15
+
+Offer:	9
+	Name:		Wells Fargo Bank
+	Loan Term:		5-15
+
+Offer:	10
+	Name:		SunTrust
+	Loan Term:		7-15
+
+Offer:	11
+	Name:		Citizens Bank
+	Loan Term:		5-15
+
+Offer:	12
+	Name:		Common Bond
+	Loan Term:		10-20
+
+Offer:	13
+	Name:		iHelp
+	Loan Term:		20-20
+
+Offer:	14
+	Name:		Skills Fund
+	Loan Term:		0-0
+
+Offer:	15
+	Name:		CordiaGrad
+	Loan Term:		5-12
+
+Offer:	16
+	Name:		Everence
+	Loan Term:		0-20
+
+Offer:	17
+	Name:		U-fi
+	Loan Term:		5-25
+
+Offer:	18
+	Name:		Credible
+	Loan Term:		5-25
+
+Offer:	19
+	Name:		MPower
+	Loan Term:		3-10
+
+Offer:	20
+	Name:		Great Lakes Higher Education Corporation
+	Loan Term:		10-30
+
+Offer:	21
+	Name:		Tuition.io
+	Loan Term:		0-0
+
+Offer:	22
+	Name:		Darien Rowayton Bank
+	Loan Term:		5-20
+
+Offer:	23
+	Name:		Purefy
+	Loan Term:		5-12
+

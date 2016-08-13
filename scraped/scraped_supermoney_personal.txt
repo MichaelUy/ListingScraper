@@ -1,0 +1,579 @@
+Source:	https://www.supermoney.com/reviews/personal-loans
+Date:	Thursday 11th of August 2016 01:25:11 PM
+# of Offers:	71
+Fields||Targets:
+	Name	||tr td.bizlist-logo span.hide
+	Interest %	||tr>td.bizlist-icons>div.compare-interest-rate 
+	Loan Amount	||tr>td.bizlist-icons>div.compare-loan-amount
+	Orig. Fee	||tr>td.bizlist-icons>div.compare-origination-fee-pct
+	Min credit	||.min-credit
+	Max credit	||.max-credit
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Offer:	0
+	Name:		SoFi
+	Interest %:		4.8-13.24
+	Loan Amount:		5000-100000
+	Orig. Fee:		N/A
+	Min credit:		Good(700-749)
+	Max credit:		Excellent (750-850)
+
+Offer:	1
+	Name:		Lending Club
+	Interest %:		5.99-35.96
+	Loan Amount:		5000-40000
+	Orig. Fee:		1
+	Min credit:		Fair (640-699)
+	Max credit:		Excellent (750-850)
+
+Offer:	2
+	Name:		LendingPoint
+	Interest %:		17.46-34.99
+	Loan Amount:		3500-20000
+	Orig. Fee:		N/A
+	Min credit:		Poor (560-639)
+	Max credit:		Good(700-749)
+
+Offer:	3
+	Name:		LightStream
+	Interest %:		1.74-14.49
+	Loan Amount:		5000-100000
+	Orig. Fee:		N/A
+	Min credit:		Good(700-749)
+	Max credit:		Excellent (750-850)
+
+Offer:	4
+	Name:		FreedomPlus
+	Interest %:		8.47-29.9
+	Loan Amount:		10000-35000
+	Orig. Fee:		1.38
+	Min credit:		Fair (640-699)
+	Max credit:		Good(700-749)
+
+Offer:	5
+	Name:		RISE
+	Interest %:		125-364
+	Loan Amount:		500-5000
+	Orig. Fee:		N/A
+	Min credit:		Deficient (559 or below)
+	Max credit:		Poor (560-639)
+
+Offer:	6
+	Name:		NetCredit
+	Interest %:		35-150
+	Loan Amount:		1000-10000
+	Orig. Fee:		N/A
+	Min credit:		Deficient (559 or below)
+	Max credit:		Poor (560-639)
+
+Offer:	7
+	Name:		Check into Cash
+	Interest %:		153.65-1041.96
+	Loan Amount:		100-1500
+	Orig. Fee:		N/A
+	Min credit:		Deficient (559 or below)
+	Max credit:		Fair (640-699)
+
+Offer:	8
+	Name:		Self Lender
+	Interest %:		12.65-12.65
+	Loan Amount:		1100-1100
+	Orig. Fee:		N/A
+	Min credit:		Deficient (559 or below)
+	Max credit:		Fair (640-699)
+
+Offer:	9
+	Name:		Prosper
+	Interest %:		5.99-36
+	Loan Amount:		2000-35000
+	Orig. Fee:		1
+	Min credit:		Fair (640-699)
+	Max credit:		Excellent (750-850)
+
+Offer:	10
+	Name:		CircleBack Lending
+	Interest %:		6.63-35.82
+	Loan Amount:		3001-35000
+	Orig. Fee:		N/A
+	Min credit:		Fair (640-699)
+	Max credit:		Good(700-749)
+
+Offer:	11
+	Name:		LoanNow
+	Interest %:		29-189
+	Loan Amount:		1000-5000
+	Orig. Fee:		N/A
+	Min credit:		Deficient (559 or below)
+	Max credit:		Fair (640-699)
+
+Offer:	12
+	Name:		Avant
+	Interest %:		9.95-36
+	Loan Amount:		1000-35000
+	Orig. Fee:		N/A
+	Min credit:		Poor (560-639)
+	Max credit:		Fair (640-699)
+
+Offer:	13
+	Name:		Opportunity Loans
+	Interest %:		36-199
+	Loan Amount:		1000-10000
+	Orig. Fee:		N/A
+	Min credit:		Deficient (559 or below)
+	Max credit:		Fair (640-699)
+
+Offer:	14
+	Name:		Karrot
+	Interest %:		6-27
+	Loan Amount:		5000-35000
+	Orig. Fee:		1.05 to 4.75
+	Min credit:		Fair (640-699)
+	Max credit:		Excellent (750-850)
+
+Offer:	15
+	Name:		Payoff
+	Interest %:		8-22
+	Loan Amount:		5000-25000
+	Orig. Fee:		N/A
+	Min credit:		Good(700-749)
+	Max credit:		Excellent (750-850)
+
+Offer:	16
+	Name:		OneMain Financial
+	Interest %:		11-30
+	Loan Amount:		300-15000
+	Orig. Fee:		N/A
+	Min credit:		Poor (560-639)
+	Max credit:		Fair (640-699)
+
+Offer:	17
+	Name:		Earnest
+	Interest %:		4-9
+	Loan Amount:		2000-50000
+	Orig. Fee:		N/A
+	Min credit:		Good(700-749)
+	Max credit:		Excellent (750-850)
+
+Offer:	18
+	Name:		LendFu
+	Interest %:		26-365
+	Loan Amount:		100-500
+	Orig. Fee:		N/A
+	Min credit:		Poor (560-639)
+	Max credit:		Poor (560-639)
+
+Offer:	19
+	Name:		Upstart Loans
+	Interest %:		4.66-29.99
+	Loan Amount:		3000-50000
+	Orig. Fee:		N/A
+	Min credit:		Fair (640-699)
+	Max credit:		Excellent (750-850)
+
+Offer:	20
+	Name:		Borro
+	Interest %:		36-60
+	Loan Amount:		5000-2000000
+	Orig. Fee:		N/A
+	Min credit:		Poor (560-639)
+	Max credit:		Fair (640-699)
+
+Offer:	21
+	Name:		RocketLoans
+	Interest %:		0-0
+	Loan Amount:		0-0
+	Orig. Fee:		N/A
+	Min credit:		N/A
+	Max credit:		N/A
+
+Offer:	22
+	Name:		Promise Financial
+	Interest %:		5.89-29.48
+	Loan Amount:		3000-35000
+	Orig. Fee:		1
+	Min credit:		Fair (640-699)
+	Max credit:		Excellent (750-850)
+
+Offer:	23
+	Name:		iLoan
+	Interest %:		11.24-35.99
+	Loan Amount:		2550-25000
+	Orig. Fee:		N/A
+	Min credit:		Fair (640-699)
+	Max credit:		Excellent (750-850)
+
+Offer:	24
+	Name:		Kwik Cash
+	Interest %:		87-59
+	Loan Amount:		2500-10000
+	Orig. Fee:		N/A
+	Min credit:		Poor (560-639)
+	Max credit:		Poor (560-639)
+
+Offer:	25
+	Name:		LendUp
+	Interest %:		29-748.77
+	Loan Amount:		100-250
+	Orig. Fee:		N/A
+	Min credit:		Deficient (559 or below)
+	Max credit:		Deficient (559 or below)
+
+Offer:	26
+	Name:		Advance America
+	Interest %:		180-447
+	Loan Amount:		255-1500
+	Orig. Fee:		N/A
+	Min credit:		Deficient (559 or below)
+	Max credit:		Deficient (559 or below)
+
+Offer:	27
+	Name:		Springleaf Financial Services
+	Interest %:		24.43-36
+	Loan Amount:		1000-10000
+	Orig. Fee:		N/A
+	Min credit:		Poor (560-639)
+	Max credit:		Fair (640-699)
+
+Offer:	28
+	Name:		Fortiva Personal Loans
+	Interest %:		35-200
+	Loan Amount:		100-5000
+	Orig. Fee:		2
+	Min credit:		Poor (560-639)
+	Max credit:		Fair (640-699)
+
+Offer:	29
+	Name:		Lift Credit
+	Interest %:		99-296
+	Loan Amount:		100-2500
+	Orig. Fee:		N/A
+	Min credit:		Deficient (559 or below)
+	Max credit:		Poor (560-639)
+
+Offer:	30
+	Name:		Oportun
+	Interest %:		30-39
+	Loan Amount:		300-6000
+	Orig. Fee:		N/A
+	Min credit:		Deficient (559 or below)
+	Max credit:		Fair (640-699)
+
+Offer:	31
+	Name:		Vouch Financial
+	Interest %:		5-30
+	Loan Amount:		500-7500
+	Orig. Fee:		N/A
+	Min credit:		Poor (560-639)
+	Max credit:		Fair (640-699)
+
+Offer:	32
+	Name:		Cumulus Funding
+	Interest %:		0-0
+	Loan Amount:		1500-10000
+	Orig. Fee:		N/A
+	Min credit:		Deficient (559 or below)
+	Max credit:		Good(700-749)
+
+Offer:	33
+	Name:		Ascend Consumer Finance
+	Interest %:		27-36
+	Loan Amount:		2600-10000
+	Orig. Fee:		N/A
+	Min credit:		Fair (640-699)
+	Max credit:		Fair (640-699)
+
+Offer:	34
+	Name:		Personify
+	Interest %:		20.99-99.99
+	Loan Amount:		1000-10000
+	Orig. Fee:		N/A
+	Min credit:		Poor (560-639)
+	Max credit:		Good(700-749)
+
+Offer:	35
+	Name:		Basix
+	Interest %:		25.99-35.99
+	Loan Amount:		3000-5000
+	Orig. Fee:		N/A
+	Min credit:		Poor (560-639)
+	Max credit:		Fair (640-699)
+
+Offer:	36
+	Name:		Elastic
+	Interest %:		0-0
+	Loan Amount:		500-3500
+	Orig. Fee:		5
+	Min credit:		Poor (560-639)
+	Max credit:		Fair (640-699)
+
+Offer:	37
+	Name:		Pioneer Military Loans
+	Interest %:		10-36
+	Loan Amount:		1000-10000
+	Orig. Fee:		N/A
+	Min credit:		Poor (560-639)
+	Max credit:		Good(700-749)
+
+Offer:	38
+	Name:		Allied Cash Advance
+	Interest %:		267-573
+	Loan Amount:		50-1500
+	Orig. Fee:		N/A
+	Min credit:		Deficient (559 or below)
+	Max credit:		Deficient (559 or below)
+
+Offer:	39
+	Name:		Omni Military Loans
+	Interest %:		7-35
+	Loan Amount:		500-10000
+	Orig. Fee:		N/A
+	Min credit:		Poor (560-639)
+	Max credit:		Fair (640-699)
+
+Offer:	40
+	Name:		LendingTree
+	Interest %:		5-100
+	Loan Amount:		1000-35000
+	Orig. Fee:		N/A
+	Min credit:		N/A
+	Max credit:		N/A
+
+Offer:	41
+	Name:		Ace Cash Express
+	Interest %:		211-890
+	Loan Amount:		200-2000
+	Orig. Fee:		N/A
+	Min credit:		Deficient (559 or below)
+	Max credit:		Deficient (559 or below)
+
+Offer:	42
+	Name:		LoanMe
+	Interest %:		9-184
+	Loan Amount:		2600-100000
+	Orig. Fee:		N/A
+	Min credit:		Deficient (559 or below)
+	Max credit:		Deficient (559 or below)
+
+Offer:	43
+	Name:		Just Military Loans
+	Interest %:		31.04-35.99
+	Loan Amount:		1000-4500
+	Orig. Fee:		0
+	Min credit:		Deficient (559 or below)
+	Max credit:		Good(700-749)
+
+Offer:	44
+	Name:		CashNetUSA
+	Interest %:		187.33-912.5
+	Loan Amount:		100-1500
+	Orig. Fee:		N/A
+	Min credit:		Deficient (559 or below)
+	Max credit:		Poor (560-639)
+
+Offer:	45
+	Name:		Balance Credit
+	Interest %:		99-880
+	Loan Amount:		100-3000
+	Orig. Fee:		N/A
+	Min credit:		Deficient (559 or below)
+	Max credit:		Fair (640-699)
+
+Offer:	46
+	Name:		Cash America
+	Interest %:		278-533
+	Loan Amount:		50-2500
+	Orig. Fee:		N/A
+	Min credit:		Deficient (559 or below)
+	Max credit:		Deficient (559 or below)
+
+Offer:	47
+	Name:		Speedy Cash
+	Interest %:		214-460
+	Loan Amount:		100-1500
+	Orig. Fee:		N/A
+	Min credit:		Deficient (559 or below)
+	Max credit:		Poor (560-639)
+
+Offer:	48
+	Name:		MoneyKey
+	Interest %:		24-788.4
+	Loan Amount:		200-1000
+	Orig. Fee:		N/A
+	Min credit:		Deficient (559 or below)
+	Max credit:		Fair (640-699)
+
+Offer:	49
+	Name:		Great Plains Lending
+	Interest %:		179-448.76
+	Loan Amount:		100-1000
+	Orig. Fee:		N/A
+	Min credit:		Deficient (559 or below)
+	Max credit:		Good(700-749)
+
+Offer:	50
+	Name:		CashCall
+	Interest %:		116-204
+	Loan Amount:		2600-25000
+	Orig. Fee:		N/A
+	Min credit:		Deficient (559 or below)
+	Max credit:		Deficient (559 or below)
+
+Offer:	51
+	Name:		Pave Personal Loans
+	Interest %:		7-35
+	Loan Amount:		3000-25000
+	Orig. Fee:		N/A
+	Min credit:		Fair (640-699)
+	Max credit:		Fair (640-699)
+
+Offer:	52
+	Name:		MoneyLion
+	Interest %:		10-681
+	Loan Amount:		1000-35000
+	Orig. Fee:		1-6
+	Min credit:		Poor (560-639)
+	Max credit:		Excellent (750-850)
+
+Offer:	53
+	Name:		USAA
+	Interest %:		8.99-10.99
+	Loan Amount:		2500-20000
+	Orig. Fee:		N/A
+	Min credit:		Good(700-749)
+	Max credit:		Excellent (750-850)
+
+Offer:	54
+	Name:		US Bank
+	Interest %:		9.25-13.25
+	Loan Amount:		3000-25000
+	Orig. Fee:		N/A
+	Min credit:		Good(700-749)
+	Max credit:		Excellent (750-850)
+
+Offer:	55
+	Name:		Santander Bank
+	Interest %:		6.99-14.99
+	Loan Amount:		5000-25000
+	Orig. Fee:		N/A
+	Min credit:		Fair (640-699)
+	Max credit:		Excellent (750-850)
+
+Offer:	56
+	Name:		loanDepot
+	Interest %:		6.17-29.99
+	Loan Amount:		5000-35000
+	Orig. Fee:		N/A
+	Min credit:		Fair (640-699)
+	Max credit:		Good(700-749)
+
+Offer:	57
+	Name:		Pentagon Federal Credit Union
+	Interest %:		9.99-0
+	Loan Amount:		500-25000
+	Orig. Fee:		N/A
+	Min credit:		Good(700-749)
+	Max credit:		Excellent (750-850)
+
+Offer:	58
+	Name:		Dollar Loan Center
+	Interest %:		196.96-199.99
+	Loan Amount:		100-2500
+	Orig. Fee:		N/A
+	Min credit:		Deficient (559 or below)
+	Max credit:		Fair (640-699)
+
+Offer:	59
+	Name:		Kashable
+	Interest %:		6-0
+	Loan Amount:		150-0
+	Orig. Fee:		N/A
+	Min credit:		Deficient (559 or below)
+	Max credit:		Fair (640-699)
+
+Offer:	60
+	Name:		Best Egg
+	Interest %:		5.99-29.99
+	Loan Amount:		2000-35000
+	Orig. Fee:		N/A
+	Min credit:		Fair (640-699)
+	Max credit:		Excellent (750-850)
+
+Offer:	61
+	Name:		Peerform
+	Interest %:		7.12-28.09
+	Loan Amount:		1000-25000
+	Orig. Fee:		N/A
+	Min credit:		Poor (560-639)
+	Max credit:		Excellent (750-850)
+
+Offer:	62
+	Name:		Ledge
+	Interest %:		0-0
+	Loan Amount:		0-0
+	Orig. Fee:		N/A
+	Min credit:		N/A
+	Max credit:		N/A
+
+Offer:	63
+	Name:		TrustCo Bank Personal Loans
+	Interest %:		0-0
+	Loan Amount:		0-0
+	Orig. Fee:		N/A
+	Min credit:		N/A
+	Max credit:		N/A
+
+Offer:	64
+	Name:		Commercial Banking Company Personal Loans
+	Interest %:		0-0
+	Loan Amount:		1000-0
+	Orig. Fee:		N/A
+	Min credit:		Good(700-749)
+	Max credit:		Excellent (750-850)
+
+Offer:	65
+	Name:		TFC Title Loans
+	Interest %:		96-96
+	Loan Amount:		2600-50000
+	Orig. Fee:		2
+	Min credit:		Deficient (559 or below)
+	Max credit:		Poor (560-639)
+
+Offer:	66
+	Name:		BorrowersFirst
+	Interest %:		6.66-29.99
+	Loan Amount:		2500-35000
+	Orig. Fee:		1
+	Min credit:		Fair (640-699)
+	Max credit:		Excellent (750-850)
+
+Offer:	67
+	Name:		Affirm
+	Interest %:		10-30
+	Loan Amount:		0-0
+	Orig. Fee:		N/A
+	Min credit:		Fair (640-699)
+	Max credit:		Excellent (750-850)
+
+Offer:	68
+	Name:		Discover Personal Loans
+	Interest %:		6.99-29.99
+	Loan Amount:		1000-30000
+	Orig. Fee:		0
+	Min credit:		Fair (640-699)
+	Max credit:		Excellent (750-850)
+
+Offer:	69
+	Name:		Reliable Credit
+	Interest %:		0-0
+	Loan Amount:		1000-0
+	Orig. Fee:		N/A
+	Min credit:		N/A
+	Max credit:		N/A
+
+Offer:	70
+	Name:		Finova Financial
+	Interest %:		0-30
+	Loan Amount:		0-5000
+	Orig. Fee:		N/A
+	Min credit:		Deficient (559 or below)
+	Max credit:		Fair (640-699)
+

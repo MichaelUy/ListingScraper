@@ -1,0 +1,141 @@
+Source:	https://www.supermoney.com/reviews/personal-loans
+Date:	Thursday 11th of August 2016 06:00:17 PM
+# of Offers:	22
+Fields||Targets:
+	Name	||tr td.bizlist-logo span.hide
+	APR	||tr>td.bizlist-icons>div.compare-apr 
+	Loan Amount	||tr>td.bizlist-icons>div.compare-desired-loan-amount
+	Min Mo. Income	||tr>td.bizlist-icons>div.compare-min-monthly-income
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Offer:	0
+	Name:		LendUp
+	APR:		210.48-767.54
+	Loan Amount:		100-250
+	Min Mo. Income:		N/A
+
+Offer:	1
+	Name:		Check into Cash
+	APR:		153.65-1041
+	Loan Amount:		100-1500
+	Min Mo. Income:		0
+
+Offer:	2
+	Name:		CashNetUSA
+	APR:		31.94-435.19
+	Loan Amount:		100-2250
+	Min Mo. Income:		1000
+
+Offer:	3
+	Name:		LoanMart
+	APR:		60-180
+	Loan Amount:		750-50000
+	Min Mo. Income:		N/A
+
+Offer:	4
+	Name:		Cashback Payday Advance
+	APR:		460-460
+	Loan Amount:		100-300
+	Min Mo. Income:		1100
+
+Offer:	5
+	Name:		Checkmate
+	APR:		165.12-912.5
+	Loan Amount:		50-1000
+	Min Mo. Income:		N/A
+
+Offer:	6
+	Name:		Money Mart
+	APR:		194.71-1042.9
+	Loan Amount:		100-1500
+	Min Mo. Income:		1250
+
+Offer:	7
+	Name:		Check 'n Go
+	APR:		456.25-1520.83
+	Loan Amount:		100-600
+	Min Mo. Income:		N/A
+
+Offer:	8
+	Name:		Check City
+	APR:		182.5-782.14
+	Loan Amount:		100-2500
+	Min Mo. Income:		N/A
+
+Offer:	9
+	Name:		Allied Cash Advance
+	APR:		267-573
+	Loan Amount:		50-1500
+	Min Mo. Income:		N/A
+
+Offer:	10
+	Name:		Speedy Cash
+	APR:		391.07-664.29
+	Loan Amount:		100-500
+	Min Mo. Income:		N/A
+
+Offer:	11
+	Name:		Zip19
+	APR:		599.12-599.12
+	Loan Amount:		100-1500
+	Min Mo. Income:		1000
+
+Offer:	12
+	Name:		Castle Payday
+	APR:		780.03-787.93
+	Loan Amount:		200-1000
+	Min Mo. Income:		700
+
+Offer:	13
+	Name:		Payday Money Centers
+	APR:		214-460
+	Loan Amount:		50-255
+	Min Mo. Income:		N/A
+
+Offer:	14
+	Name:		1st Money Center
+	APR:		51.48-244.33
+	Loan Amount:		500-3000
+	Min Mo. Income:		N/A
+
+Offer:	15
+	Name:		Cash Central
+	APR:		214.61-214.62
+	Loan Amount:		100-255
+	Min Mo. Income:		600
+
+Offer:	16
+	Name:		Lendgreen
+	APR:		795-795
+	Loan Amount:		400-1000
+	Min Mo. Income:		1100
+
+Offer:	17
+	Name:		Action Payday
+	APR:		353.23-368.75
+	Loan Amount:		100-1500
+	Min Mo. Income:		N/A
+
+Offer:	18
+	Name:		EZ Payday Cash
+	APR:		365-1564.28
+	Loan Amount:		200-1000
+	Min Mo. Income:		1000
+
+Offer:	19
+	Name:		Continental Currency Services
+	APR:		0-391
+	Loan Amount:		50-300
+	Min Mo. Income:		N/A
+
+Offer:	20
+	Name:		Great Plains Lending
+	APR:		0-0
+	Loan Amount:		0-0
+	Min Mo. Income:		N/A
+
+Offer:	21
+	Name:		Eastside Lenders
+	APR:		360-782
+	Loan Amount:		50-1000
+	Min Mo. Income:		0
+

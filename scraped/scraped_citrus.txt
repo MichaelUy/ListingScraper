@@ -1,0 +1,66 @@
+Source:	https://citruscredit.com/Loans?id=8871dbad-9278-4a48-3672-08d3583f61a4
+Date:	Wednesday 10th of August 2016 12:56:52 PM
+# of Offers:	11
+Fields||Targets:
+	Name	||.offer-logo
+	Interest %	||.int-rate
+	Max Loan	||.max-loan
+	Min Score	||.min-score
+	Orig Fee	||.orig-fee
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Offer:	0
+	Name:		upstart
+	Interest %:		4.66% - 29.99%
+	Max Loan:		$50,000
+	Min Score:		640
+	Orig Fee:		4.66% - 29.99%
+
+Offer:	1
+	Name:		avant
+	Interest %:		9.95% - 36.00%
+	Max Loan:		$35,000
+	Min Score:		580
+	Orig Fee:		1% - 6%
+
+Offer:	2
+	Name:		Payoff
+	Interest %:		8.00% - 22.00%
+	Max Loan:		$35,000
+	Min Score:		660
+	Orig Fee:		9.95% - 36.00%
+
+Offer:	3
+	Name:		prosper
+	Interest %:		5.99% - 36.00%
+	Max Loan:		$35,000
+	Min Score:		640
+	Orig Fee:		8.00% - 22.00%
+
+Offer:	4
+	Name:		earnest
+	Interest %:		6.00% - 12.00%
+	Max Loan:		$50,000
+	Min Score:		660
+	Orig Fee:		2% - 5%
+
+Offer:	5
+	Name:		lightstream
+	Interest %:		3.99% - 15.00%
+	Max Loan:		$100,000
+	Min Score:		680
+	Orig Fee:		5.99% - 36.00%
+
+Offer:	6
+	Name:		earnest
+	Interest %:		6.00% - 12.00%
+	Max Loan:		$50,000
+	Min Score:		660
+	Orig Fee:		1% - 5%
+
+Offer:	7
+	Name:		sofi
+	Interest %:		5.95% - 11.74%
+	Max Loan:		$100,000
+	Min Score:		N/A
+	Orig Fee:		6.00% - 12.00%
+
