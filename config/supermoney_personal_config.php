@@ -8,39 +8,88 @@
 // * $callback_array [][] Array of [callback_functionname, find_class_selector] tuples
 ////////////////////////////////////////////////////////////////////////////////
 
-  $first_credit = ""; 
-  $current_credit = ""; 
-  $count = 0;
-  $count_insert = 0;
-  $count_finish = 0;
-  $started = 0;
-  $first_name = '';
  
+ $listing_selector = 'table[id=tfilterComp] tr[id]';
 
-$fromWeb = 0;
-$url = 'https://www.supermoney.com/reviews/personal-loans';
-// $url ='http://smartycredit.app:8000';
-
+/*
+Max Loan
+  **Type of Mortgage**
+    Adjustable Rate 
+    Fixed Rate  
+    Home Equity Loans and Lines of Credit 
+    Hybrid Mortgage 
+    Jumbo Loan  
+    Reverse Mortgage  
+  **Mortgage Programs**
+    FHA 
+    FHA 203k  
+    HARP  
+    HomePath  
+    USDA  
+    VA  
+  **Intended Use**
+    Primary Residence 
+    Estate/Trust/Retirement
+*/
 
 $fields = array(
-  'Name' => array('tr td.bizlist-logo span.hide', 'innertext'),
-  'Interest %' => array('tr>td.bizlist-icons>div.compare-interest-rate ', 'innertext'),
-  'Loan Amount' => array('tr>td.bizlist-icons>div.compare-loan-amount', 'innertext'),
-  'Orig. Fee' => array('tr>td.bizlist-icons>div.compare-origination-fee-pct', 'innertext'),
-  'Min credit' => array('.min-credit', 'innertext'),
-  'Max credit' => array('.max-credit', 'innertext'),
-);
-
-
-$callback_array =[
-  array('hide_all_but','article[id=content] div[id=tfilterComp]>tbody>tr'),
-  array('get_credit_personal','*'),
-];
-
-
-if($dump == 'dump'){
-  $callback_array []= array('hide_all_but','h2.company-table-cell-title, .min-credit, .max-credit');
-
-}
+    'Name' => array(
+      'value' => 'innertext',
+      'field_selector' => 'td.bizlist-logo span.hide',
+      'value_contains' => '' ,
+      // 'value_contains' => '' ,
+    ),
+    'Interest APR' => array(
+      'value' => 'innertext',
+      'field_selector' => 'tr>td.bizlist-icons>div.compare-interest-rate',
+      'value_contains' => '' ,
+    ),
+    'Desired Loan Amount' => array(
+      'value' => 'innertext',
+      'field_selector' => 'tr>td.bizlist-icons>div.compare-loan-amount',
+      'value_contains' => '' ,
+    ),
+    'Target Credit Score' => array(
+      'value' => 'innertext',
+      'field_selector' => 'tr>td.bizlist-icons>div.table-tag',
+      'value_contains' => 'credit-required',
+    ),
+   'Lend to Military' => array(
+      'value' => 'innertext',
+      'field_selector' => 'tr>td.bizlist-icons>div.table-tag',
+      'value_contains' => 'lend-to-military',
+    ),
+   'Pre-Approved Soft Credit Inquiry' => array(
+      'value' => 'innertext',
+      'field_selector' => 'tr>td.bizlist-icons>div.table-tag',
+      'value_contains' => 'pre-approved',
+    ),
+   'Origination Fee' => array(
+      'value' => 'innertext',
+      'field_selector' => 'tr>td.bizlist-icons>div.compare-origination-fee-pct',
+      'value_contains' => '',
+    ),
+   'No Origination Fee' => array(
+      'value' => 'innertext',
+      'field_selector' => 'tr>td.bizlist-icons>div.table-tag',
+      'value_contains' => array(
+        'no-origination',    
+        ) ,
+    ),
+   'Institution Type' => array(
+      'value' => 'innertext',
+      'field_selector' => 'tr>td.bizlist-icons>div.table-tag',
+      'value_contains' => array(
+        'institution-type',    
+        ) ,
+    ),
+   // 'States Offered' => array(
+   //    'value' => 'innertext',
+   //    'field_selector' => 'tr>td.bizlist-icons>div.table-tag',
+   //    'value_contains' => array(
+   //      'states-offered',    
+   //      ) ,
+   //  ),
+  );
 
 ?>

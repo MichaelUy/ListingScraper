@@ -1,243 +1,125 @@
 /////////////////////////////////
   SYMBOL ONLY
 /////////////////////////////////
-if($innertext == 'states-offered-43')
-  $element->innertext = 'AK';
-if($innertext == 'states-offered-44')
-  $element->innertext = 'AL';
-if($innertext == 'states-offered-45')
-  $element->innertext = 'AR';
-if($innertext == 'states-offered-46')
-  $element->innertext = 'AS';
-if($innertext == 'states-offered-47')
-  $element->innertext = 'AZ';
-if($innertext == 'states-offered-48')
-  $element->innertext = 'CA';
-if($innertext == 'states-offered-49')
-  $element->innertext = 'CO';
-if($innertext == 'states-offered-50')
-  $element->innertext = 'CT';
-if($innertext == 'states-offered-51')
-  $element->innertext = 'DC';
-if($innertext == 'states-offered-52')
-  $element->innertext = 'DE';
-if($innertext == 'states-offered-53')
-  $element->innertext = 'FL';
-if($innertext == 'states-offered-54')
-  $element->innertext = 'FM';
-if($innertext == 'states-offered-55')
-  $element->innertext = 'GA';
-if($innertext == 'states-offered-56')
-  $element->innertext = 'GU';
-if($innertext == 'states-offered-57')
-  $element->innertext = 'HI';
-if($innertext == 'states-offered-58')
-  $element->innertext = 'IA';
-if($innertext == 'states-offered-59')
-  $element->innertext = 'ID';
-if($innertext == 'states-offered-60')
-  $element->innertext = 'IL';
-if($innertext == 'states-offered-61')
-  $element->innertext = 'IN';
-if($innertext == 'states-offered-62')
-  $element->innertext = 'KS';
-if($innertext == 'states-offered-63')
-  $element->innertext = 'KY';
-if($innertext == 'states-offered-64')
-  $element->innertext = 'LA';
-if($innertext == 'states-offered-65')
-  $element->innertext = 'MA';
-if($innertext == 'states-offered-66')
-  $element->innertext = 'MD';
-if($innertext == 'states-offered-67')
-  $element->innertext = 'ME';
-if($innertext == 'states-offered-68')
-  $element->innertext = 'MH';
-if($innertext == 'states-offered-69')
-  $element->innertext = 'MI';
-if($innertext == 'states-offered-70')
-  $element->innertext = 'MN';
-if($innertext == 'states-offered-71')
-  $element->innertext = 'MO';
-if($innertext == 'states-offered-72')
-  $element->innertext = 'MP';
-if($innertext == 'states-offered-73')
-  $element->innertext = 'MS';
-if($innertext == 'states-offered-74')
-  $element->innertext = 'MT';
-if($innertext == 'states-offered-75')
-  $element->innertext = 'NC';
-if($innertext == 'states-offered-76')
-  $element->innertext = 'ND';
-if($innertext == 'states-offered-77')
-  $element->innertext = 'NE';
-if($innertext == 'states-offered-78')
-  $element->innertext = 'NH';
-if($innertext == 'states-offered-79')
-  $element->innertext = 'NJ';
-if($innertext == 'states-offered-80')
-  $element->innertext = 'NM';
-if($innertext == 'states-offered-81')
-  $element->innertext = 'NV';
-if($innertext == 'states-offered-82')
-  $element->innertext = 'NY';
-if($innertext == 'states-offered-83')
-  $element->innertext = 'OH';
-if($innertext == 'states-offered-84')
-  $element->innertext = 'OK';
-if($innertext == 'states-offered-85')
-  $element->innertext = 'OR';
-if($innertext == 'states-offered-86')
-  $element->innertext = 'PA';
-if($innertext == 'states-offered-87')
-  $element->innertext = 'PR';
-if($innertext == 'states-offered-88')
-  $element->innertext = 'PW';
-if($innertext == 'states-offered-89')
-  $element->innertext = 'RI';
-if($innertext == 'states-offered-90')
-  $element->innertext = 'SC';
-if($innertext == 'states-offered-91')
-  $element->innertext = 'SD';
-if($innertext == 'states-offered-92')
-  $element->innertext = 'TN';
-if($innertext == 'states-offered-93')
-  $element->innertext = 'TX';
-if($innertext == 'states-offered-94')
-  $element->innertext = 'UT';
-if($innertext == 'states-offered-95')
-  $element->innertext = 'VA';
-if($innertext == 'states-offered-96')
-  $element->innertext = 'VI';
-if($innertext == 'states-offered-97')
-  $element->innertext = 'VT';
-if($innertext == 'states-offered-98')
-  $element->innertext = 'WA';
-if($innertext == 'states-offered-99')
-  $element->innertext = 'WI';
-if($innertext == 'states-offered-100')
-  $element->innertext = 'WV';
-if($innertext == 'states-offered-101')
-  $element->innertext = 'WY';
+if($text == 'states-offered-43')return 'AK';
+if($text == 'states-offered-44')return 'AL';
+if($text == 'states-offered-45')return 'AR';
+if($text == 'states-offered-46')return 'AS';
+if($text == 'states-offered-47')return 'AZ';
+if($text == 'states-offered-48')return 'CA';
+if($text == 'states-offered-49')return 'CO';
+if($text == 'states-offered-50')return 'CT';
+if($text == 'states-offered-51')return 'DC';
+if($text == 'states-offered-52')return 'DE';
+if($text == 'states-offered-53')return 'FL';
+if($text == 'states-offered-54')return 'FM';
+if($text == 'states-offered-55')return 'GA';
+if($text == 'states-offered-56')return 'GU';
+if($text == 'states-offered-57')return 'HI';
+if($text == 'states-offered-58')return 'IA';
+if($text == 'states-offered-59')return 'ID';
+if($text == 'states-offered-60')return 'IL';
+if($text == 'states-offered-61')return 'IN';
+if($text == 'states-offered-62')return 'KS';
+if($text == 'states-offered-63')return 'KY';
+if($text == 'states-offered-64')return 'LA';
+if($text == 'states-offered-65')return 'MA';
+if($text == 'states-offered-66')return 'MD';
+if($text == 'states-offered-67')return 'ME';
+if($text == 'states-offered-68')return 'MH';
+if($text == 'states-offered-69')return 'MI';
+if($text == 'states-offered-70')return 'MN';
+if($text == 'states-offered-71')return 'MO';
+if($text == 'states-offered-72')return 'MP';
+if($text == 'states-offered-73')return 'MS';
+if($text == 'states-offered-74')return 'MT';
+if($text == 'states-offered-75')return 'NC';
+if($text == 'states-offered-76')return 'ND';
+if($text == 'states-offered-77')return 'NE';
+if($text == 'states-offered-78')return 'NH';
+if($text == 'states-offered-79')return 'NJ';
+if($text == 'states-offered-80')return 'NM';
+if($text == 'states-offered-81')return 'NV';
+if($text == 'states-offered-82')return 'NY';
+if($text == 'states-offered-83')return 'OH';
+if($text == 'states-offered-84')return 'OK';
+if($text == 'states-offered-85')return 'OR';
+if($text == 'states-offered-86')return 'PA';
+if($text == 'states-offered-87')return 'PR';
+if($text == 'states-offered-88')return 'PW';
+if($text == 'states-offered-89')return 'RI';
+if($text == 'states-offered-90')return 'SC';
+if($text == 'states-offered-91')return 'SD';
+if($text == 'states-offered-92')return 'TN';
+if($text == 'states-offered-93')return 'TX';
+if($text == 'states-offered-94')return 'UT';
+if($text == 'states-offered-95')return 'VA';
+if($text == 'states-offered-96')return 'VI';
+if($text == 'states-offered-97')return 'VT';
+if($text == 'states-offered-98')return 'WA';
+if($text == 'states-offered-99')return 'WI';
+if($text == 'states-offered-100')return 'WV';
+if($text == 'states-offered-101')return 'WY';
 
 ////////////////////////////
 //// SYMBOL AND NAME
 ///////////////////
-if($innertext == 'states-offered-43')
-	$element->innertext = 'AK - Alaska';
-if($innertext == 'states-offered-44')
-	$element->innertext = 'AL - Alabama';
-if($innertext == 'states-offered-45')
-	$element->innertext = 'AR - Arkansas';
-if($innertext == 'states-offered-46')
-	$element->innertext = 'AS - AmericanSamoa';
-if($innertext == 'states-offered-47')
-	$element->innertext = 'AZ - Arizona';
-if($innertext == 'states-offered-48')
-	$element->innertext = 'CA - California';
-if($innertext == 'states-offered-49')
-	$element->innertext = 'CO - Colorado';
-if($innertext == 'states-offered-50')
-	$element->innertext = 'CT - Connecticut';
-if($innertext == 'states-offered-51')
-	$element->innertext = 'DC - Washington, DC';
-if($innertext == 'states-offered-52')
-	$element->innertext = 'DE - Delaware';
-if($innertext == 'states-offered-53')
-	$element->innertext = 'FL - Florida';
-if($innertext == 'states-offered-54')
-	$element->innertext = 'FM - FederatedStates of Micronesia';
-if($innertext == 'states-offered-55')
-	$element->innertext = 'GA - Georgia';
-if($innertext == 'states-offered-56')
-	$element->innertext = 'GU - Guam';
-if($innertext == 'states-offered-57')
-	$element->innertext = 'HI - Hawaii';
-if($innertext == 'states-offered-58')
-	$element->innertext = 'IA - Iowa';
-if($innertext == 'states-offered-59')
-	$element->innertext = 'ID - Idaho';
-if($innertext == 'states-offered-60')
-	$element->innertext = 'IL - Illinois';
-if($innertext == 'states-offered-61')
-	$element->innertext = 'IN - Indiana';
-if($innertext == 'states-offered-62')
-	$element->innertext = 'KS - Kansas';
-if($innertext == 'states-offered-63')
-	$element->innertext = 'KY - Kentucky';
-if($innertext == 'states-offered-64')
-	$element->innertext = 'LA - Louisiana';
-if($innertext == 'states-offered-65')
-	$element->innertext = 'MA - Massachusetts';
-if($innertext == 'states-offered-66')
-	$element->innertext = 'MD - Maryland';
-if($innertext == 'states-offered-67')
-	$element->innertext = 'ME - Maine';
-if($innertext == 'states-offered-68')
-	$element->innertext = 'MH - Marshall Islands';
-if($innertext == 'states-offered-69')
-	$element->innertext = 'MI - Michigan';
-if($innertext == 'states-offered-70')
-	$element->innertext = 'MN - Minnesota';
-if($innertext == 'states-offered-71')
-	$element->innertext = 'MO - Missouri';
-if($innertext == 'states-offered-72')
-	$element->innertext = 'MP - Northern Mariana Islands';
-if($innertext == 'states-offered-73')
-	$element->innertext = 'MS - Mississippi';
-if($innertext == 'states-offered-74')
-	$element->innertext = 'MT - Montana';
-if($innertext == 'states-offered-75')
-	$element->innertext = 'NC - North Carolina';
-if($innertext == 'states-offered-76')
-	$element->innertext = 'ND - North Dakota';
-if($innertext == 'states-offered-77')
-	$element->innertext = 'NE - Nebraska';
-if($innertext == 'states-offered-78')
-	$element->innertext = 'NH - New Hampshire';
-if($innertext == 'states-offered-79')
-	$element->innertext = 'NJ - New Jersey';
-if($innertext == 'states-offered-80')
-	$element->innertext = 'NM - New Mexico';
-if($innertext == 'states-offered-81')
-	$element->innertext = 'NV - Nevada';
-if($innertext == 'states-offered-82')
-	$element->innertext = 'NY - New York';
-if($innertext == 'states-offered-83')
-	$element->innertext = 'OH - Ohio';
-if($innertext == 'states-offered-84')
-	$element->innertext = 'OK - Oklahoma';
-if($innertext == 'states-offered-85')
-	$element->innertext = 'OR - Oregon';
-if($innertext == 'states-offered-86')
-	$element->innertext = 'PA - Pennsylvania';
-if($innertext == 'states-offered-87')
-	$element->innertext = 'PR - Puerto Rico';
-if($innertext == 'states-offered-88')
-	$element->innertext = 'PW - Palau';
-if($innertext == 'states-offered-89')
-	$element->innertext = 'RI - Rhode Island';
-if($innertext == 'states-offered-90')
-	$element->innertext = 'SC -South Carolina';
-if($innertext == 'states-offered-91')
-	$element->innertext = 'SD -South Dakota';
-if($innertext == 'states-offered-92')
-	$element->innertext = 'TN - Tennessee';
-if($innertext == 'states-offered-93')
-	$element->innertext = 'TX - Texas';
-if($innertext == 'states-offered-94')
-	$element->innertext = 'UT - Utah';
-if($innertext == 'states-offered-95')
-	$element->innertext = 'VA - Virginia';
-if($innertext == 'states-offered-96')
-	$element->innertext = 'VI - Virgin Islands';
-if($innertext == 'states-offered-97')
-	$element->innertext = 'VT - Vermont';
-if($innertext == 'states-offered-98')
-	$element->innertext = 'WA - Washington';
-if($innertext == 'states-offered-99')
-	$element->innertext = 'WI - Wisconsin';
-if($innertext == 'states-offered-100')
-	$element->innertext = 'WV - West Virginia';
-if($innertext == 'states-offered-101')
-	$element->innertext = 'WY - Wyoming';
+if($text == 'states-offered-43')return 'AK - Alaska';
+if($text == 'states-offered-44')return 'AL - Alabama';
+if($text == 'states-offered-45')return 'AR - Arkansas';
+if($text == 'states-offered-46')return 'AS - AmericanSamoa';
+if($text == 'states-offered-47')return 'AZ - Arizona';
+if($text == 'states-offered-48')return 'CA - California';
+if($text == 'states-offered-49')return 'CO - Colorado';
+if($text == 'states-offered-50')return 'CT - Connecticut';
+if($text == 'states-offered-51')return 'DC - Washington, DC';
+if($text == 'states-offered-52')return 'DE - Delaware';
+if($text == 'states-offered-53')return 'FL - Florida';
+if($text == 'states-offered-54')return 'FM - FederatedStates of Micronesia';
+if($text == 'states-offered-55')return 'GA - Georgia';
+if($text == 'states-offered-56')return 'GU - Guam';
+if($text == 'states-offered-57')return 'HI - Hawaii';
+if($text == 'states-offered-58')return 'IA - Iowa';
+if($text == 'states-offered-59')return 'ID - Idaho';
+if($text == 'states-offered-60')return 'IL - Illinois';
+if($text == 'states-offered-61')return 'IN - Indiana';
+if($text == 'states-offered-62')return 'KS - Kansas';
+if($text == 'states-offered-63')return 'KY - Kentucky';
+if($text == 'states-offered-64')return 'LA - Louisiana';
+if($text == 'states-offered-65')return 'MA - Massachusetts';
+if($text == 'states-offered-66')return 'MD - Maryland';
+if($text == 'states-offered-67')return 'ME - Maine';
+if($text == 'states-offered-68')return 'MH - Marshall Islands';
+if($text == 'states-offered-69')return 'MI - Michigan';
+if($text == 'states-offered-70')return 'MN - Minnesota';
+if($text == 'states-offered-71')return 'MO - Missouri';
+if($text == 'states-offered-72')return 'MP - Northern Mariana Islands';
+if($text == 'states-offered-73')return 'MS - Mississippi';
+if($text == 'states-offered-74')return 'MT - Montana';
+if($text == 'states-offered-75')return 'NC - North Carolina';
+if($text == 'states-offered-76')return 'ND - North Dakota';
+if($text == 'states-offered-77')return 'NE - Nebraska';
+if($text == 'states-offered-78')return 'NH - New Hampshire';
+if($text == 'states-offered-79')return 'NJ - New Jersey';
+if($text == 'states-offered-80')return 'NM - New Mexico';
+if($text == 'states-offered-81')return 'NV - Nevada';
+if($text == 'states-offered-82')return 'NY - New York';
+if($text == 'states-offered-83')return 'OH - Ohio';
+if($text == 'states-offered-84')return 'OK - Oklahoma';
+if($text == 'states-offered-85')return 'OR - Oregon';
+if($text == 'states-offered-86')return 'PA - Pennsylvania';
+if($text == 'states-offered-87')return 'PR - PuertoRico';
+if($text == 'states-offered-88')return 'PW - Palau';
+if($text == 'states-offered-89')return 'RI -Rhode Island';
+if($text == 'states-offered-90')return 'SC -South Carolina';
+if($text == 'states-offered-91')return 'SD -South Dakota';
+if($text == 'states-offered-92')return 'TN - Tennessee';
+if($text == 'states-offered-93')return 'TX - Texas';
+if($text == 'states-offered-94')return 'UT - Utah';
+if($text == 'states-offered-95')return 'VA - Virginia';
+if($text == 'states-offered-96')return 'VI - Virgin Islands';
+if($text == 'states-offered-97')return 'VT - Vermont';
+if($text == 'states-offered-98')return 'WA - Washington';
+if($text == 'states-offered-99')return 'WI - Wisconsin';
+if($text == 'states-offered-100')return 'WV - West Virginia';
+if($text == 'states-offered-101')return 'WY - Wyoming';

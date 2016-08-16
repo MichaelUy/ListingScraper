@@ -1,0 +1,337 @@
+Date:	Monday 15th of August 2016 05:59:29 PM
+# of Offers:	30
+Fields:
+	Lender Name:
+	Card Name:
+	Details:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Offer:	0
+	Lender Name:		Capital One
+	Card Name:  		
+                        Capital One® Platinum Credit Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	24.99% (Variable)
+	Annual Fee:	$0
+	Credit Needed:	Fair Credit
+
+Offer:	1
+	Lender Name:		Chase
+	Card Name:  		
+                        Chase Slate®                    
+	Details:    		
+	Purchase Intro APR:	0% for 15 months
+	Balance Transfer Intro APR:	0% for 15 months
+	Regular APR:	13.24%-23.24% Variable
+	Annual Fee:	$0
+	Credit Needed:	Average-Excellent
+
+Offer:	2
+	Lender Name:		Capital One
+	Card Name:  		
+                        Capital One® QuicksilverOne® Cash Rewards Credit Card                    
+	Details:    		
+	Purchase Intro APR:	0% intro on purchases for 9 months
+	Balance Transfer Intro APR:	0% intro on balance transfers for 9 months
+	Regular APR:	23.24% (Variable)
+	Annual Fee:	$39
+	Credit Needed:	Fair Credit
+
+Offer:	3
+	Lender Name:		Capital One
+	Card Name:  		
+                        Capital One® Card Finder Tool                    
+	Details:    		
+	Purchase Intro APR:	See Terms
+	Balance Transfer Intro APR:	See Terms
+	Regular APR:	Various Rates
+	Annual Fee:	See Terms
+	Credit Needed:	N/A
+
+Offer:	4
+	Lender Name:		Barclaycard
+	Card Name:  		
+                        Barclaycard Rewards MasterCard®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	25.24%* Variable
+	Annual Fee:	$0
+	Credit Needed:	Fair Credit
+
+Offer:	5
+	Lender Name:		USAA Savings
+	Card Name:  		
+                        USAA Classic Platinum Visa®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	18.15%-24.15% (Variable)
+	Annual Fee:	$35
+	Credit Needed:	Fair Credit
+
+Offer:	6
+	Lender Name:		Credit One Bank
+	Card Name:  		
+                        Credit One® Platinum Visa® Cash Back Rewards Credit Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	15.65% - 24.15% Variable
+	Annual Fee:	$0 - $99
+	Credit Needed:	Fair Credit
+
+Offer:	7
+	Lender Name:		First PREMIER Bank
+	Card Name:  		
+                        First PREMIER® Bank MasterCard® Credit Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	See Issuer Website
+	Annual Fee:	See Issuer Website
+	Credit Needed:	Fair/Bad Credit
+
+Offer:	8
+	Lender Name:		Genesis Bankcard Services
+	Card Name:  		
+                        Milestone® Gold MasterCard®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	23.90%
+	Annual Fee:	$35-$99 (varies by credit level)
+	Credit Needed:	Good/Fair
+
+Offer:	9
+	Lender Name:		Credit One Bank
+	Card Name:  		
+                        Credit One® Platinum Visa® Credit Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	15.65% - 24.15% Variable
+	Annual Fee:	$0 - $99
+	Credit Needed:	Fair Credit
+
+Offer:	10
+	Lender Name:		USAA Savings
+	Card Name:  		
+                        USAA Classic American Express®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	18.15%-24.15% (Variable)
+	Annual Fee:	$35
+	Credit Needed:	Fair Credit
+
+Offer:	11
+	Lender Name:		Credit One Bank
+	Card Name:  		
+                        Official NASCAR® Credit Card from Credit One Bank®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	16.65%-23.90% (Variable)
+	Annual Fee:	$0 - $99
+	Credit Needed:	Fair Credit
+
+Offer:	12
+	Lender Name:		Discover
+	Card Name:  		
+                        Discover it® Cashback Match™                    
+	Details:    		
+	Purchase Intro APR:	0% for 12 months
+	Balance Transfer Intro APR:	0% for 12 months
+	Regular APR:	11.24% - 23.24% Variable
+	Annual Fee:	$0
+	Credit Needed:	Excellent/Good
+
+Offer:	13
+	Lender Name:		Capital One
+	Card Name:  		
+                        Journey® Student Rewards from Capital One®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	20.24% (Variable)
+	Annual Fee:	$0
+	Credit Needed:	Fair Credit
+
+Offer:	14
+	Lender Name:		Genesis Bankcard Services
+	Card Name:  		
+                        Indigo® Platinum MasterCard®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	23.90%
+	Annual Fee:	$0 - $99
+	Credit Needed:	Fair Credit
+
+Offer:	15
+	Lender Name:		First PREMIER Bank
+	Card Name:  		
+                        First PREMIER® Bank Classic Credit Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	See Issuer Website
+	Annual Fee:	See Issuer Website
+	Credit Needed:	Fair/Bad Credit
+
+Offer:	16
+	Lender Name:		First Access Card
+	Card Name:  		
+                        The First Access VISA® Credit Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	See Terms*
+	Annual Fee:	See Terms*
+	Credit Needed:	Fair/Bad Credit
+
+Offer:	17
+	Lender Name:		First PREMIER Bank
+	Card Name:  		
+                        PREMIER Forward® MasterCard® Credit Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	See Issuer Website
+	Annual Fee:	See Issuer Website
+	Credit Needed:	Fair/Bad Credit
+
+Offer:	18
+	Lender Name:		Celtic Bank
+	Card Name:  		
+                        Surge MasterCard® Credit Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	See Terms
+	Annual Fee:	See Terms
+	Credit Needed:	Bad Credit
+
+Offer:	19
+	Lender Name:		Mid America Bank &amp; Trust
+	Card Name:  		
+                        Total VISA® Unsecured Credit Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	See Terms*
+	Annual Fee:	See Terms*
+	Credit Needed:	Bad/Fair
+
+Offer:	20
+	Lender Name:		Credit One Bank
+	Card Name:  		
+                        Credit One® Rewards Credit Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	15.65% - 24.15% Variable
+	Annual Fee:	$0 - $99
+	Credit Needed:	Fair Credit
+
+Offer:	21
+	Lender Name:		Genesis Bankcard Services
+	Card Name:  		
+                        Milestone® MasterCard®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	23.90%
+	Annual Fee:	$35-$99 (varies by credit level)
+	Credit Needed:	Fair Credit
+
+Offer:	22
+	Lender Name:		Genesis Bankcard Services
+	Card Name:  		
+                        Milestone® Unsecured MasterCard®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	23.90%
+	Annual Fee:	$35-$99 (varies by credit level)
+	Credit Needed:	Fair Credit
+
+Offer:	23
+	Lender Name:		Genesis Bankcard Services
+	Card Name:  		
+                        Indigo® Unsecured MasterCard®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	23.90%
+	Annual Fee:	$0 - $99
+	Credit Needed:	Fair Credit
+
+Offer:	24
+	Lender Name:		Mid America Bank &amp; Trust
+	Card Name:  		
+                        Matrix MasterCard® Credit Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	See Terms*
+	Annual Fee:	See Terms*
+	Credit Needed:	Bad/Fair
+
+Offer:	25
+	Lender Name:		Credit One Bank
+	Card Name:  		
+                        Credit One Bank® Offer Finder Tool                    
+	Details:    		
+	Purchase Intro APR:	See Terms
+	Balance Transfer Intro APR:	See Terms
+	Regular APR:	See Terms
+	Annual Fee:	See Terms
+	Credit Needed:	See Terms
+
+Offer:	26
+	Lender Name:		Genesis Bankcard Services
+	Card Name:  		
+                        Indigo® MasterCard®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	23.90%
+	Annual Fee:	$0 - $99
+	Credit Needed:	Fair Credit
+
+Offer:	27
+	Lender Name:		Discover
+	Card Name:  		
+                        Discover it® chrome for Students                    
+	Details:    		
+	Purchase Intro APR:	0% for 6 months
+	Balance Transfer Intro APR:	10.99% for 6 months
+	Regular APR:	13.24% - 22.24% Variable
+	Annual Fee:	$0
+	Credit Needed:	Fair Credit
+
+Offer:	28
+	Lender Name:		Discover
+	Card Name:  		
+                        Discover it® for Students                    
+	Details:    		
+	Purchase Intro APR:	0% for 6 months
+	Balance Transfer Intro APR:	10.99% for 6 months
+	Regular APR:	13.24%-22.24% Variable
+	Annual Fee:	$0
+	Credit Needed:	Fair Credit
+
+Offer:	29
+	Lender Name:		OneUnited
+	Card Name:  		
+                        UNITY® Visa Secured Credit Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	9.95% for 6 months
+	Regular APR:	17.99% (Fixed)
+	Annual Fee:	$39
+	Credit Needed:	Bad Credit

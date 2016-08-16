@@ -8,37 +8,78 @@
 // * $callback_array [][] Array of [callback_functionname, find_class_selector] tuples
 ////////////////////////////////////////////////////////////////////////////////
 
-  $first_credit = ""; 
-  $current_credit = ""; 
-  $count = 0;
-  $count_insert = 0;
-  $count_finish = 0;
-  $started = 0;
-  $first_name = '';
- 
+ $listing_selector = 'table[id=tfilterComp] tr[id]';
 
-$fromWeb = 0;
-$url = 'https://www.supermoney.com/reviews/personal-loans';
-// $url ='http://smartycredit.app:8000';
-
+/*
+Max Loan
+  **Type of Mortgage**
+    Adjustable Rate 
+    Fixed Rate  
+    Home Equity Loans and Lines of Credit 
+    Hybrid Mortgage 
+    Jumbo Loan  
+    Reverse Mortgage  
+  **Mortgage Programs**
+    FHA 
+    FHA 203k  
+    HARP  
+    HomePath  
+    USDA  
+    VA  
+  **Intended Use**
+    Primary Residence 
+    Estate/Trust/Retirement
+*/
 
 $fields = array(
-  'Name' => array('tr td.bizlist-logo span.hide', 'innertext'),
-  'APR' => array('tr>td.bizlist-icons>div.compare-apr ', 'innertext'),
-  'Loan Amount' => array('tr>td.bizlist-icons>div.compare-desired-loan-amount', 'innertext'),
-  'Min Mo. Income' => array('tr>td.bizlist-icons>div.compare-min-monthly-income', 'innertext'),
-);
-
-
-$callback_array =[
-  array('hide_all_but','article[id=content] div[id=tfilterComp]>tbody>tr'),
-  // array('fix','*'),
-  // array('hide_all_but','h2.company-table-cell-title, .min-credit, .max-credit  '),
-];
-if($dump == 'dump'){
-  $callback_array []= array('hide_all_but','h2.company-table-cell-title, .compare-desired-loan-amount, .compare-min-monthly-income, .compare-apr');
-
-}
-
+    'Name' => array(
+      'value' => 'innertext',
+      'field_selector' => 'td.bizlist-logo span.hide',
+      'value_contains' => '' ,
+      // 'value_contains' => '' ,
+    ),
+    'Advanced Fee APR' => array(
+      'value' => 'innertext',
+      'field_selector' => 'tr>td.bizlist-icons>div.compare-apr',
+      'value_contains' => '' ,
+    ),
+    'Desired Loan Amount' => array(
+      'value' => 'innertext',
+      'field_selector' => 'tr>td.bizlist-icons>div.compare-desired-loan-amount',
+      'value_contains' => '' ,
+    ),
+    'No Credit Check' => array(
+      'value' => 'innertext',
+      'field_selector' => 'tr>td.bizlist-icons>div.table-tag',
+      'value_contains' => 'no-credit' ,
+    ),
+    'Min Monthly Income' => array(
+      'value' => 'innertext',
+      'field_selector' => 'tr>td.bizlist-icons>div.compare-min-monthly-income',
+      'value_contains' => '' ,
+    ),
+    'No Other Outstanding Loans' => array(
+      'value' => 'innertext',
+      'field_selector' => 'tr>td.bizlist-icons>div.table-tag',
+      'value_contains' => 'no-other' ,
+    ),  
+    'Benefits' => array(
+      'value' => 'innertext',
+      'field_selector' => 'tr>td.bizlist-icons>div.table-tag',
+      'value_contains' => array(
+        'direct',
+        'Instant',
+        'online',
+        ) ,
+    ),
+   // 'States Offered' => array(
+   //    'value' => 'innertext',
+   //    'field_selector' => 'tr>td.bizlist-icons>div.table-tag',
+   //    'value_contains' => array(
+   //      'new-loan',    
+   //      'refinance'
+   //      ) ,
+   //  ),
+  );
 
 ?>

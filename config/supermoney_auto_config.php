@@ -7,36 +7,80 @@
 // * $fields {}[] Assoc array of field_names labeling [class_selector, attribute] tuples
 // * $callback_array [][] Array of [callback_functionname, find_class_selector] tuples
 ////////////////////////////////////////////////////////////////////////////////
+ $listing_selector = 'table[id=tfilterComp] tr[id]';
 
-  $first_credit = ""; 
-  $current_credit = ""; 
-  $count = 0;
-  $count_insert = 0;
-  $count_finish = 0;
-  $started = 0;
-  $first_name = '';
- 
-
-$fromWeb = 0;
-$url = 'https://www.supermoney.com/reviews/auto-loans';
-// $url ='http://smartycredit.app:8000';
+ /*
+ Loan Amount
+  Min APR
+  Min Credit Score 
+  Max Credit Score 
+  **Key Features**
+    No Prepayment Penalty
+  **Loan Type**
+    Lease Purchase
+    New Loan
+    Refinance
+  **Institution Type**
+    Bank
+    Credit Union
+    Other
+    Peer to Peer Lending
+  **Availability** (STATES)
+    states
+ */
 
 $fields = array(
-  'Name' => array('tr td.bizlist-logo span.hide', 'innertext'),
-  'Min APR' => array('tr>td.bizlist-icons>div.compare-min-apr', 'innertext'),
-  'Loan Amount' => array('tr>td.bizlist-icons>div.compare-loan-amount', 'innertext'),
-  'Min credit' => array('.min-credit', 'innertext'),
-  'Max credit' => array('.max-credit', 'innertext'),
-);
-
-$callback_array =[
-  array('hide_all_but','article[id=content] div[id=tfilterComp]>tbody>tr'),
-  array('get_credit_business','*'),
-];
-
-if($dump == 'dump'){
-  $callback_array []= array('hide_all_but','h2.company-table-cell-title, .min-credit, .max-credit');
-
-}
+    'Name' => array(
+      'value' => 'innertext',
+      'field_selector' => 'td.bizlist-logo span.hide',
+      'value_contains' => '' ,
+      // 'value_contains' => '' ,
+    ),
+    'Min APR' => array(
+      'value' => 'innertext',
+      'field_selector' => 'tr>td.bizlist-icons>div.compare-min-apr',
+      'value_contains' => '' ,
+    ),
+    'Desired Loan Amount' => array(
+      'value' => 'innertext',
+      'field_selector' => 'tr>td.bizlist-icons>div.compare-loan-amount',
+      'value_contains' => '' ,
+    ),
+    'Target Credit Score' => array(
+      'value' => 'innertext',
+      'field_selector' => 'tr>td.bizlist-icons>div.table-tag',
+      'value_contains' => 'credit-required',
+    ),
+   'Key Features' => array(
+      'value' => 'innertext',
+      'field_selector' => 'tr>td.bizlist-icons>div.table-tag',
+      'value_contains' => array(
+        'no-prepay',
+        ) ,
+    ),
+   'Loan Type' => array(
+      'value' => 'innertext',
+      'field_selector' => 'tr>td.bizlist-icons>div.table-tag',
+      'value_contains' => array(
+        'lease-purchase',    
+        'new-car-loan',    
+        'refinance',      
+        ) ,
+    ),
+   'Institution Type' => array(
+      'value' => 'innertext',
+      'field_selector' => 'tr>td.bizlist-icons>div.table-tag',
+      'value_contains' => array(
+        'institution-type',    
+        ) ,
+    ),
+   // 'States Offered' => array(
+   //    'value' => 'innertext',
+   //    'field_selector' => 'tr>td.bizlist-icons>div.table-tag',
+   //    'value_contains' => array(
+   //      'states-offered',    
+   //      ) ,
+   //  ),
+  );
 
 ?>

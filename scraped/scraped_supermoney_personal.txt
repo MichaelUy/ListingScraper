@@ -1,579 +1,893 @@
-Source:	https://www.supermoney.com/reviews/personal-loans
-Date:	Thursday 11th of August 2016 01:25:11 PM
+Date:	Monday 15th of August 2016 04:31:39 PM
 # of Offers:	71
-Fields||Targets:
-	Name	||tr td.bizlist-logo span.hide
-	Interest %	||tr>td.bizlist-icons>div.compare-interest-rate 
-	Loan Amount	||tr>td.bizlist-icons>div.compare-loan-amount
-	Orig. Fee	||tr>td.bizlist-icons>div.compare-origination-fee-pct
-	Min credit	||.min-credit
-	Max credit	||.max-credit
+Fields:
+	Name:
+	Interest APR:
+	Desired Loan Amount:
+	Target Credit Score:
+	Lend to Military:
+	Pre-Approved Soft Credit Inquiry:
+	Origination Fee:
+	No Origination Fee:
+	Institution Type:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Offer:	0
-	Name:		SoFi
-	Interest %:		4.8-13.24
-	Loan Amount:		5000-100000
-	Orig. Fee:		N/A
-	Min credit:		Good(700-749)
-	Max credit:		Excellent (750-850)
+	Name:                            		SoFi
+	Interest APR:                    		4.8-13.24
+	Desired Loan Amount:             		5000-100000
+	Target Credit Score:             		Good(700-749)
+	                                		Excellent (750-850)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		pre-approved-soft-credit-inquiry-555
+	Origination Fee:                 		N/A
+	No Origination Fee:              		no-origination-fee-398
+	Institution Type:                		Other
+	                                		Peer to Peer Lending
 
 Offer:	1
-	Name:		Lending Club
-	Interest %:		5.99-35.96
-	Loan Amount:		5000-40000
-	Orig. Fee:		1
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:                            		Lending Club
+	Interest APR:                    		5.99-35.96
+	Desired Loan Amount:             		5000-40000
+	Target Credit Score:             		Fair (640-699)
+	                                		Good(700-749)
+	                                		Excellent (750-850)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		1
+	No Origination Fee:              		N/A
+	Institution Type:                		Peer to Peer Lending
 
 Offer:	2
-	Name:		LendingPoint
-	Interest %:		17.46-34.99
-	Loan Amount:		3500-20000
-	Orig. Fee:		N/A
-	Min credit:		Poor (560-639)
-	Max credit:		Good(700-749)
+	Name:                            		LendingPoint
+	Interest APR:                    		17.46-34.99
+	Desired Loan Amount:             		3500-20000
+	Target Credit Score:             		Poor (560-639)
+	                                		Fair (640-699)
+	                                		Good(700-749)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		pre-approved-soft-credit-inquiry-555
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	3
-	Name:		LightStream
-	Interest %:		1.74-14.49
-	Loan Amount:		5000-100000
-	Orig. Fee:		N/A
-	Min credit:		Good(700-749)
-	Max credit:		Excellent (750-850)
+	Name:                            		LightStream
+	Interest APR:                    		1.74-14.49
+	Desired Loan Amount:             		5000-100000
+	Target Credit Score:             		Good(700-749)
+	                                		Excellent (750-850)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		no-origination-fee-398
+	Institution Type:                		Bank
+	                                		Direct Lender
 
 Offer:	4
-	Name:		FreedomPlus
-	Interest %:		8.47-29.9
-	Loan Amount:		10000-35000
-	Orig. Fee:		1.38
-	Min credit:		Fair (640-699)
-	Max credit:		Good(700-749)
+	Name:                            		FreedomPlus
+	Interest APR:                    		8.47-29.9
+	Desired Loan Amount:             		10000-35000
+	Target Credit Score:             		Fair (640-699)
+	                                		Good(700-749)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		1.38
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	5
-	Name:		RISE
-	Interest %:		125-364
-	Loan Amount:		500-5000
-	Orig. Fee:		N/A
-	Min credit:		Deficient (559 or below)
-	Max credit:		Poor (560-639)
+	Name:                            		RISE
+	Interest APR:                    		125-364
+	Desired Loan Amount:             		500-5000
+	Target Credit Score:             		Deficient (559 or below)
+	                                		Poor (560-639)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		no-origination-fee-398
+	Institution Type:                		Direct Lender
 
 Offer:	6
-	Name:		NetCredit
-	Interest %:		35-150
-	Loan Amount:		1000-10000
-	Orig. Fee:		N/A
-	Min credit:		Deficient (559 or below)
-	Max credit:		Poor (560-639)
+	Name:                            		NetCredit
+	Interest APR:                    		35-150
+	Desired Loan Amount:             		1000-10000
+	Target Credit Score:             		Deficient (559 or below)
+	                                		Poor (560-639)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	7
-	Name:		Check into Cash
-	Interest %:		153.65-1041.96
-	Loan Amount:		100-1500
-	Orig. Fee:		N/A
-	Min credit:		Deficient (559 or below)
-	Max credit:		Fair (640-699)
+	Name:                            		Check into Cash
+	Interest APR:                    		153.65-1041.96
+	Desired Loan Amount:             		100-1500
+	Target Credit Score:             		Deficient (559 or below)
+	                                		Poor (560-639)
+	                                		Fair (640-699)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	8
-	Name:		Self Lender
-	Interest %:		12.65-12.65
-	Loan Amount:		1100-1100
-	Orig. Fee:		N/A
-	Min credit:		Deficient (559 or below)
-	Max credit:		Fair (640-699)
+	Name:                            		Self Lender
+	Interest APR:                    		12.65-12.65
+	Desired Loan Amount:             		1100-1100
+	Target Credit Score:             		Deficient (559 or below)
+	                                		Poor (560-639)
+	                                		Fair (640-699)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Other
 
 Offer:	9
-	Name:		Prosper
-	Interest %:		5.99-36
-	Loan Amount:		2000-35000
-	Orig. Fee:		1
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:                            		Prosper
+	Interest APR:                    		5.99-36
+	Desired Loan Amount:             		2000-35000
+	Target Credit Score:             		Fair (640-699)
+	                                		Good(700-749)
+	                                		Excellent (750-850)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		pre-approved-soft-credit-inquiry-555
+	Origination Fee:                 		1
+	No Origination Fee:              		N/A
+	Institution Type:                		Peer to Peer Lending
 
 Offer:	10
-	Name:		CircleBack Lending
-	Interest %:		6.63-35.82
-	Loan Amount:		3001-35000
-	Orig. Fee:		N/A
-	Min credit:		Fair (640-699)
-	Max credit:		Good(700-749)
+	Name:                            		CircleBack Lending
+	Interest APR:                    		6.63-35.82
+	Desired Loan Amount:             		3001-35000
+	Target Credit Score:             		Fair (640-699)
+	                                		Good(700-749)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	11
-	Name:		LoanNow
-	Interest %:		29-189
-	Loan Amount:		1000-5000
-	Orig. Fee:		N/A
-	Min credit:		Deficient (559 or below)
-	Max credit:		Fair (640-699)
+	Name:                            		LoanNow
+	Interest APR:                    		29-189
+	Desired Loan Amount:             		1000-5000
+	Target Credit Score:             		Deficient (559 or below)
+	                                		Poor (560-639)
+	                                		Fair (640-699)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		no-origination-fee-398
+	Institution Type:                		Direct Lender
 
 Offer:	12
-	Name:		Avant
-	Interest %:		9.95-36
-	Loan Amount:		1000-35000
-	Orig. Fee:		N/A
-	Min credit:		Poor (560-639)
-	Max credit:		Fair (640-699)
+	Name:                            		Avant
+	Interest APR:                    		9.95-36
+	Desired Loan Amount:             		1000-35000
+	Target Credit Score:             		Poor (560-639)
+	                                		Fair (640-699)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		no-origination-fee-398
+	Institution Type:                		Direct Lender
 
 Offer:	13
-	Name:		Opportunity Loans
-	Interest %:		36-199
-	Loan Amount:		1000-10000
-	Orig. Fee:		N/A
-	Min credit:		Deficient (559 or below)
-	Max credit:		Fair (640-699)
+	Name:                            		Opportunity Loans
+	Interest APR:                    		36-199
+	Desired Loan Amount:             		1000-10000
+	Target Credit Score:             		Deficient (559 or below)
+	                                		Poor (560-639)
+	                                		Fair (640-699)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	14
-	Name:		Karrot
-	Interest %:		6-27
-	Loan Amount:		5000-35000
-	Orig. Fee:		1.05 to 4.75
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:                            		Karrot
+	Interest APR:                    		6-27
+	Desired Loan Amount:             		5000-35000
+	Target Credit Score:             		Fair (640-699)
+	                                		Good(700-749)
+	                                		Excellent (750-850)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		1.05 to 4.75
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	15
-	Name:		Payoff
-	Interest %:		8-22
-	Loan Amount:		5000-25000
-	Orig. Fee:		N/A
-	Min credit:		Good(700-749)
-	Max credit:		Excellent (750-850)
+	Name:                            		Payoff
+	Interest APR:                    		8-22
+	Desired Loan Amount:             		5000-25000
+	Target Credit Score:             		Good(700-749)
+	                                		Excellent (750-850)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	16
-	Name:		OneMain Financial
-	Interest %:		11-30
-	Loan Amount:		300-15000
-	Orig. Fee:		N/A
-	Min credit:		Poor (560-639)
-	Max credit:		Fair (640-699)
+	Name:                            		OneMain Financial
+	Interest APR:                    		11-30
+	Desired Loan Amount:             		300-15000
+	Target Credit Score:             		Poor (560-639)
+	                                		Fair (640-699)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Bank
 
 Offer:	17
-	Name:		Earnest
-	Interest %:		4-9
-	Loan Amount:		2000-50000
-	Orig. Fee:		N/A
-	Min credit:		Good(700-749)
-	Max credit:		Excellent (750-850)
+	Name:                            		Earnest
+	Interest APR:                    		4-9
+	Desired Loan Amount:             		2000-50000
+	Target Credit Score:             		Good(700-749)
+	                                		Excellent (750-850)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	18
-	Name:		LendFu
-	Interest %:		26-365
-	Loan Amount:		100-500
-	Orig. Fee:		N/A
-	Min credit:		Poor (560-639)
-	Max credit:		Poor (560-639)
+	Name:                            		LendFu
+	Interest APR:                    		26-365
+	Desired Loan Amount:             		100-500
+	Target Credit Score:             		Poor (560-639)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Peer to Peer Lending
 
 Offer:	19
-	Name:		Upstart Loans
-	Interest %:		4.66-29.99
-	Loan Amount:		3000-50000
-	Orig. Fee:		N/A
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:                            		Upstart Loans
+	Interest APR:                    		4.66-29.99
+	Desired Loan Amount:             		3000-50000
+	Target Credit Score:             		Fair (640-699)
+	                                		Good(700-749)
+	                                		Excellent (750-850)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		pre-approved-soft-credit-inquiry-555
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Peer to Peer Lending
 
 Offer:	20
-	Name:		Borro
-	Interest %:		36-60
-	Loan Amount:		5000-2000000
-	Orig. Fee:		N/A
-	Min credit:		Poor (560-639)
-	Max credit:		Fair (640-699)
+	Name:                            		Borro
+	Interest APR:                    		36-60
+	Desired Loan Amount:             		5000-2000000
+	Target Credit Score:             		Poor (560-639)
+	                                		Fair (640-699)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	21
-	Name:		RocketLoans
-	Interest %:		0-0
-	Loan Amount:		0-0
-	Orig. Fee:		N/A
-	Min credit:		N/A
-	Max credit:		N/A
+	Name:                            		RocketLoans
+	Interest APR:                    		0-0
+	Desired Loan Amount:             		0-0
+	Target Credit Score:             		N/A
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		N/A
 
 Offer:	22
-	Name:		Promise Financial
-	Interest %:		5.89-29.48
-	Loan Amount:		3000-35000
-	Orig. Fee:		1
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:                            		Promise Financial
+	Interest APR:                    		5.89-29.48
+	Desired Loan Amount:             		3000-35000
+	Target Credit Score:             		Fair (640-699)
+	                                		Good(700-749)
+	                                		Excellent (750-850)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		1
+	No Origination Fee:              		N/A
+	Institution Type:                		Other
 
 Offer:	23
-	Name:		iLoan
-	Interest %:		11.24-35.99
-	Loan Amount:		2550-25000
-	Orig. Fee:		N/A
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:                            		iLoan
+	Interest APR:                    		11.24-35.99
+	Desired Loan Amount:             		2550-25000
+	Target Credit Score:             		Fair (640-699)
+	                                		Good(700-749)
+	                                		Excellent (750-850)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	24
-	Name:		Kwik Cash
-	Interest %:		87-59
-	Loan Amount:		2500-10000
-	Orig. Fee:		N/A
-	Min credit:		Poor (560-639)
-	Max credit:		Poor (560-639)
+	Name:                            		Kwik Cash
+	Interest APR:                    		87-59
+	Desired Loan Amount:             		2500-10000
+	Target Credit Score:             		Poor (560-639)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	25
-	Name:		LendUp
-	Interest %:		29-748.77
-	Loan Amount:		100-250
-	Orig. Fee:		N/A
-	Min credit:		Deficient (559 or below)
-	Max credit:		Deficient (559 or below)
+	Name:                            		LendUp
+	Interest APR:                    		29-748.77
+	Desired Loan Amount:             		100-250
+	Target Credit Score:             		Deficient (559 or below)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	26
-	Name:		Advance America
-	Interest %:		180-447
-	Loan Amount:		255-1500
-	Orig. Fee:		N/A
-	Min credit:		Deficient (559 or below)
-	Max credit:		Deficient (559 or below)
+	Name:                            		Advance America
+	Interest APR:                    		180-447
+	Desired Loan Amount:             		255-1500
+	Target Credit Score:             		Deficient (559 or below)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	27
-	Name:		Springleaf Financial Services
-	Interest %:		24.43-36
-	Loan Amount:		1000-10000
-	Orig. Fee:		N/A
-	Min credit:		Poor (560-639)
-	Max credit:		Fair (640-699)
+	Name:                            		Springleaf Financial Services
+	Interest APR:                    		24.43-36
+	Desired Loan Amount:             		1000-10000
+	Target Credit Score:             		Poor (560-639)
+	                                		Fair (640-699)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	28
-	Name:		Fortiva Personal Loans
-	Interest %:		35-200
-	Loan Amount:		100-5000
-	Orig. Fee:		2
-	Min credit:		Poor (560-639)
-	Max credit:		Fair (640-699)
+	Name:                            		Fortiva Personal Loans
+	Interest APR:                    		35-200
+	Desired Loan Amount:             		100-5000
+	Target Credit Score:             		Poor (560-639)
+	                                		Fair (640-699)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		pre-approved-soft-credit-inquiry-555
+	Origination Fee:                 		2
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	29
-	Name:		Lift Credit
-	Interest %:		99-296
-	Loan Amount:		100-2500
-	Orig. Fee:		N/A
-	Min credit:		Deficient (559 or below)
-	Max credit:		Poor (560-639)
+	Name:                            		Lift Credit
+	Interest APR:                    		99-296
+	Desired Loan Amount:             		100-2500
+	Target Credit Score:             		Deficient (559 or below)
+	                                		Poor (560-639)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	30
-	Name:		Oportun
-	Interest %:		30-39
-	Loan Amount:		300-6000
-	Orig. Fee:		N/A
-	Min credit:		Deficient (559 or below)
-	Max credit:		Fair (640-699)
+	Name:                            		Oportun
+	Interest APR:                    		30-39
+	Desired Loan Amount:             		300-6000
+	Target Credit Score:             		Deficient (559 or below)
+	                                		Poor (560-639)
+	                                		Fair (640-699)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	31
-	Name:		Vouch Financial
-	Interest %:		5-30
-	Loan Amount:		500-7500
-	Orig. Fee:		N/A
-	Min credit:		Poor (560-639)
-	Max credit:		Fair (640-699)
+	Name:                            		Vouch Financial
+	Interest APR:                    		5-30
+	Desired Loan Amount:             		500-7500
+	Target Credit Score:             		Poor (560-639)
+	                                		Fair (640-699)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	32
-	Name:		Cumulus Funding
-	Interest %:		0-0
-	Loan Amount:		1500-10000
-	Orig. Fee:		N/A
-	Min credit:		Deficient (559 or below)
-	Max credit:		Good(700-749)
+	Name:                            		Cumulus Funding
+	Interest APR:                    		0-0
+	Desired Loan Amount:             		1500-10000
+	Target Credit Score:             		Deficient (559 or below)
+	                                		Poor (560-639)
+	                                		Fair (640-699)
+	                                		Good(700-749)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		pre-approved-soft-credit-inquiry-555
+	Origination Fee:                 		N/A
+	No Origination Fee:              		no-origination-fee-398
+	Institution Type:                		Direct Lender
 
 Offer:	33
-	Name:		Ascend Consumer Finance
-	Interest %:		27-36
-	Loan Amount:		2600-10000
-	Orig. Fee:		N/A
-	Min credit:		Fair (640-699)
-	Max credit:		Fair (640-699)
+	Name:                            		Ascend Consumer Finance
+	Interest APR:                    		27-36
+	Desired Loan Amount:             		2600-10000
+	Target Credit Score:             		Fair (640-699)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	34
-	Name:		Personify
-	Interest %:		20.99-99.99
-	Loan Amount:		1000-10000
-	Orig. Fee:		N/A
-	Min credit:		Poor (560-639)
-	Max credit:		Good(700-749)
+	Name:                            		Personify
+	Interest APR:                    		20.99-99.99
+	Desired Loan Amount:             		1000-10000
+	Target Credit Score:             		Poor (560-639)
+	                                		Fair (640-699)
+	                                		Good(700-749)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		no-origination-fee-398
+	Institution Type:                		Direct Lender
 
 Offer:	35
-	Name:		Basix
-	Interest %:		25.99-35.99
-	Loan Amount:		3000-5000
-	Orig. Fee:		N/A
-	Min credit:		Poor (560-639)
-	Max credit:		Fair (640-699)
+	Name:                            		Basix
+	Interest APR:                    		25.99-35.99
+	Desired Loan Amount:             		3000-5000
+	Target Credit Score:             		Poor (560-639)
+	                                		Fair (640-699)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
+	                                		Other
 
 Offer:	36
-	Name:		Elastic
-	Interest %:		0-0
-	Loan Amount:		500-3500
-	Orig. Fee:		5
-	Min credit:		Poor (560-639)
-	Max credit:		Fair (640-699)
+	Name:                            		Elastic
+	Interest APR:                    		0-0
+	Desired Loan Amount:             		500-3500
+	Target Credit Score:             		Poor (560-639)
+	                                		Fair (640-699)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		5
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	37
-	Name:		Pioneer Military Loans
-	Interest %:		10-36
-	Loan Amount:		1000-10000
-	Orig. Fee:		N/A
-	Min credit:		Poor (560-639)
-	Max credit:		Good(700-749)
+	Name:                            		Pioneer Military Loans
+	Interest APR:                    		10-36
+	Desired Loan Amount:             		1000-10000
+	Target Credit Score:             		Poor (560-639)
+	                                		Fair (640-699)
+	                                		Good(700-749)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	38
-	Name:		Allied Cash Advance
-	Interest %:		267-573
-	Loan Amount:		50-1500
-	Orig. Fee:		N/A
-	Min credit:		Deficient (559 or below)
-	Max credit:		Deficient (559 or below)
+	Name:                            		Allied Cash Advance
+	Interest APR:                    		267-573
+	Desired Loan Amount:             		50-1500
+	Target Credit Score:             		Deficient (559 or below)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	39
-	Name:		Omni Military Loans
-	Interest %:		7-35
-	Loan Amount:		500-10000
-	Orig. Fee:		N/A
-	Min credit:		Poor (560-639)
-	Max credit:		Fair (640-699)
+	Name:                            		Omni Military Loans
+	Interest APR:                    		7-35
+	Desired Loan Amount:             		500-10000
+	Target Credit Score:             		Poor (560-639)
+	                                		Fair (640-699)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	40
-	Name:		LendingTree
-	Interest %:		5-100
-	Loan Amount:		1000-35000
-	Orig. Fee:		N/A
-	Min credit:		N/A
-	Max credit:		N/A
+	Name:                            		LendingTree
+	Interest APR:                    		5-100
+	Desired Loan Amount:             		1000-35000
+	Target Credit Score:             		N/A
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Other
 
 Offer:	41
-	Name:		Ace Cash Express
-	Interest %:		211-890
-	Loan Amount:		200-2000
-	Orig. Fee:		N/A
-	Min credit:		Deficient (559 or below)
-	Max credit:		Deficient (559 or below)
+	Name:                            		Ace Cash Express
+	Interest APR:                    		211-890
+	Desired Loan Amount:             		200-2000
+	Target Credit Score:             		Deficient (559 or below)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	42
-	Name:		LoanMe
-	Interest %:		9-184
-	Loan Amount:		2600-100000
-	Orig. Fee:		N/A
-	Min credit:		Deficient (559 or below)
-	Max credit:		Deficient (559 or below)
+	Name:                            		LoanMe
+	Interest APR:                    		9-184
+	Desired Loan Amount:             		2600-100000
+	Target Credit Score:             		Deficient (559 or below)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	43
-	Name:		Just Military Loans
-	Interest %:		31.04-35.99
-	Loan Amount:		1000-4500
-	Orig. Fee:		0
-	Min credit:		Deficient (559 or below)
-	Max credit:		Good(700-749)
+	Name:                            		Just Military Loans
+	Interest APR:                    		31.04-35.99
+	Desired Loan Amount:             		1000-4500
+	Target Credit Score:             		Deficient (559 or below)
+	                                		Poor (560-639)
+	                                		Fair (640-699)
+	                                		Good(700-749)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		0
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	44
-	Name:		CashNetUSA
-	Interest %:		187.33-912.5
-	Loan Amount:		100-1500
-	Orig. Fee:		N/A
-	Min credit:		Deficient (559 or below)
-	Max credit:		Poor (560-639)
+	Name:                            		CashNetUSA
+	Interest APR:                    		187.33-912.5
+	Desired Loan Amount:             		100-1500
+	Target Credit Score:             		Deficient (559 or below)
+	                                		Poor (560-639)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	45
-	Name:		Balance Credit
-	Interest %:		99-880
-	Loan Amount:		100-3000
-	Orig. Fee:		N/A
-	Min credit:		Deficient (559 or below)
-	Max credit:		Fair (640-699)
+	Name:                            		Balance Credit
+	Interest APR:                    		99-880
+	Desired Loan Amount:             		100-3000
+	Target Credit Score:             		Deficient (559 or below)
+	                                		Poor (560-639)
+	                                		Fair (640-699)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		no-origination-fee-398
+	Institution Type:                		Direct Lender
 
 Offer:	46
-	Name:		Cash America
-	Interest %:		278-533
-	Loan Amount:		50-2500
-	Orig. Fee:		N/A
-	Min credit:		Deficient (559 or below)
-	Max credit:		Deficient (559 or below)
+	Name:                            		Cash America
+	Interest APR:                    		278-533
+	Desired Loan Amount:             		50-2500
+	Target Credit Score:             		Deficient (559 or below)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	47
-	Name:		Speedy Cash
-	Interest %:		214-460
-	Loan Amount:		100-1500
-	Orig. Fee:		N/A
-	Min credit:		Deficient (559 or below)
-	Max credit:		Poor (560-639)
+	Name:                            		Speedy Cash
+	Interest APR:                    		214-460
+	Desired Loan Amount:             		100-1500
+	Target Credit Score:             		Deficient (559 or below)
+	                                		Poor (560-639)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	48
-	Name:		MoneyKey
-	Interest %:		24-788.4
-	Loan Amount:		200-1000
-	Orig. Fee:		N/A
-	Min credit:		Deficient (559 or below)
-	Max credit:		Fair (640-699)
+	Name:                            		MoneyKey
+	Interest APR:                    		24-788.4
+	Desired Loan Amount:             		200-1000
+	Target Credit Score:             		Deficient (559 or below)
+	                                		Poor (560-639)
+	                                		Fair (640-699)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
+	                                		Other
 
 Offer:	49
-	Name:		Great Plains Lending
-	Interest %:		179-448.76
-	Loan Amount:		100-1000
-	Orig. Fee:		N/A
-	Min credit:		Deficient (559 or below)
-	Max credit:		Good(700-749)
+	Name:                            		Great Plains Lending
+	Interest APR:                    		179-448.76
+	Desired Loan Amount:             		100-1000
+	Target Credit Score:             		Deficient (559 or below)
+	                                		Poor (560-639)
+	                                		Fair (640-699)
+	                                		Good(700-749)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		no-origination-fee-398
+	Institution Type:                		Direct Lender
 
 Offer:	50
-	Name:		CashCall
-	Interest %:		116-204
-	Loan Amount:		2600-25000
-	Orig. Fee:		N/A
-	Min credit:		Deficient (559 or below)
-	Max credit:		Deficient (559 or below)
+	Name:                            		CashCall
+	Interest APR:                    		116-204
+	Desired Loan Amount:             		2600-25000
+	Target Credit Score:             		Deficient (559 or below)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	51
-	Name:		Pave Personal Loans
-	Interest %:		7-35
-	Loan Amount:		3000-25000
-	Orig. Fee:		N/A
-	Min credit:		Fair (640-699)
-	Max credit:		Fair (640-699)
+	Name:                            		Pave Personal Loans
+	Interest APR:                    		7-35
+	Desired Loan Amount:             		3000-25000
+	Target Credit Score:             		Fair (640-699)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Peer to Peer Lending
 
 Offer:	52
-	Name:		MoneyLion
-	Interest %:		10-681
-	Loan Amount:		1000-35000
-	Orig. Fee:		1-6
-	Min credit:		Poor (560-639)
-	Max credit:		Excellent (750-850)
+	Name:                            		MoneyLion
+	Interest APR:                    		10-681
+	Desired Loan Amount:             		1000-35000
+	Target Credit Score:             		Poor (560-639)
+	                                		Fair (640-699)
+	                                		Good(700-749)
+	                                		Excellent (750-850)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		pre-approved-soft-credit-inquiry-555
+	Origination Fee:                 		1-6
+	No Origination Fee:              		N/A
+	Institution Type:                		Bank
+	                                		Direct Lender
 
 Offer:	53
-	Name:		USAA
-	Interest %:		8.99-10.99
-	Loan Amount:		2500-20000
-	Orig. Fee:		N/A
-	Min credit:		Good(700-749)
-	Max credit:		Excellent (750-850)
+	Name:                            		USAA
+	Interest APR:                    		8.99-10.99
+	Desired Loan Amount:             		2500-20000
+	Target Credit Score:             		Good(700-749)
+	                                		Excellent (750-850)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Bank
 
 Offer:	54
-	Name:		US Bank
-	Interest %:		9.25-13.25
-	Loan Amount:		3000-25000
-	Orig. Fee:		N/A
-	Min credit:		Good(700-749)
-	Max credit:		Excellent (750-850)
+	Name:                            		US Bank
+	Interest APR:                    		9.25-13.25
+	Desired Loan Amount:             		3000-25000
+	Target Credit Score:             		Good(700-749)
+	                                		Excellent (750-850)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Bank
 
 Offer:	55
-	Name:		Santander Bank
-	Interest %:		6.99-14.99
-	Loan Amount:		5000-25000
-	Orig. Fee:		N/A
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:                            		Santander Bank
+	Interest APR:                    		6.99-14.99
+	Desired Loan Amount:             		5000-25000
+	Target Credit Score:             		Fair (640-699)
+	                                		Good(700-749)
+	                                		Excellent (750-850)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Bank
+	                                		Direct Lender
 
 Offer:	56
-	Name:		loanDepot
-	Interest %:		6.17-29.99
-	Loan Amount:		5000-35000
-	Orig. Fee:		N/A
-	Min credit:		Fair (640-699)
-	Max credit:		Good(700-749)
+	Name:                            		loanDepot
+	Interest APR:                    		6.17-29.99
+	Desired Loan Amount:             		5000-35000
+	Target Credit Score:             		Fair (640-699)
+	                                		Good(700-749)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
+	                                		Other
 
 Offer:	57
-	Name:		Pentagon Federal Credit Union
-	Interest %:		9.99-0
-	Loan Amount:		500-25000
-	Orig. Fee:		N/A
-	Min credit:		Good(700-749)
-	Max credit:		Excellent (750-850)
+	Name:                            		Pentagon Federal Credit Union
+	Interest APR:                    		9.99-0
+	Desired Loan Amount:             		500-25000
+	Target Credit Score:             		Good(700-749)
+	                                		Excellent (750-850)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Credit Union
 
 Offer:	58
-	Name:		Dollar Loan Center
-	Interest %:		196.96-199.99
-	Loan Amount:		100-2500
-	Orig. Fee:		N/A
-	Min credit:		Deficient (559 or below)
-	Max credit:		Fair (640-699)
+	Name:                            		Dollar Loan Center
+	Interest APR:                    		196.96-199.99
+	Desired Loan Amount:             		100-2500
+	Target Credit Score:             		Deficient (559 or below)
+	                                		Poor (560-639)
+	                                		Fair (640-699)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	59
-	Name:		Kashable
-	Interest %:		6-0
-	Loan Amount:		150-0
-	Orig. Fee:		N/A
-	Min credit:		Deficient (559 or below)
-	Max credit:		Fair (640-699)
+	Name:                            		Kashable
+	Interest APR:                    		6-0
+	Desired Loan Amount:             		150-0
+	Target Credit Score:             		Deficient (559 or below)
+	                                		Poor (560-639)
+	                                		Fair (640-699)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
+	                                		Other
 
 Offer:	60
-	Name:		Best Egg
-	Interest %:		5.99-29.99
-	Loan Amount:		2000-35000
-	Orig. Fee:		N/A
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:                            		Best Egg
+	Interest APR:                    		5.99-29.99
+	Desired Loan Amount:             		2000-35000
+	Target Credit Score:             		Fair (640-699)
+	                                		Good(700-749)
+	                                		Excellent (750-850)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
+	                                		Other
 
 Offer:	61
-	Name:		Peerform
-	Interest %:		7.12-28.09
-	Loan Amount:		1000-25000
-	Orig. Fee:		N/A
-	Min credit:		Poor (560-639)
-	Max credit:		Excellent (750-850)
+	Name:                            		Peerform
+	Interest APR:                    		7.12-28.09
+	Desired Loan Amount:             		1000-25000
+	Target Credit Score:             		Poor (560-639)
+	                                		Fair (640-699)
+	                                		Good(700-749)
+	                                		Excellent (750-850)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Peer to Peer Lending
 
 Offer:	62
-	Name:		Ledge
-	Interest %:		0-0
-	Loan Amount:		0-0
-	Orig. Fee:		N/A
-	Min credit:		N/A
-	Max credit:		N/A
+	Name:                            		Ledge
+	Interest APR:                    		0-0
+	Desired Loan Amount:             		0-0
+	Target Credit Score:             		N/A
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		N/A
 
 Offer:	63
-	Name:		TrustCo Bank Personal Loans
-	Interest %:		0-0
-	Loan Amount:		0-0
-	Orig. Fee:		N/A
-	Min credit:		N/A
-	Max credit:		N/A
+	Name:                            		TrustCo Bank Personal Loans
+	Interest APR:                    		0-0
+	Desired Loan Amount:             		0-0
+	Target Credit Score:             		N/A
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		N/A
 
 Offer:	64
-	Name:		Commercial Banking Company Personal Loans
-	Interest %:		0-0
-	Loan Amount:		1000-0
-	Orig. Fee:		N/A
-	Min credit:		Good(700-749)
-	Max credit:		Excellent (750-850)
+	Name:                            		Commercial Banking Company Personal Loans
+	Interest APR:                    		0-0
+	Desired Loan Amount:             		1000-0
+	Target Credit Score:             		Good(700-749)
+	                                		Excellent (750-850)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		N/A
 
 Offer:	65
-	Name:		TFC Title Loans
-	Interest %:		96-96
-	Loan Amount:		2600-50000
-	Orig. Fee:		2
-	Min credit:		Deficient (559 or below)
-	Max credit:		Poor (560-639)
+	Name:                            		TFC Title Loans
+	Interest APR:                    		96-96
+	Desired Loan Amount:             		2600-50000
+	Target Credit Score:             		Deficient (559 or below)
+	                                		Poor (560-639)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		2
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender
 
 Offer:	66
-	Name:		BorrowersFirst
-	Interest %:		6.66-29.99
-	Loan Amount:		2500-35000
-	Orig. Fee:		1
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:                            		BorrowersFirst
+	Interest APR:                    		6.66-29.99
+	Desired Loan Amount:             		2500-35000
+	Target Credit Score:             		Fair (640-699)
+	                                		Good(700-749)
+	                                		Excellent (750-850)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		pre-approved-soft-credit-inquiry-555
+	Origination Fee:                 		1
+	No Origination Fee:              		N/A
+	Institution Type:                		Bank
 
 Offer:	67
-	Name:		Affirm
-	Interest %:		10-30
-	Loan Amount:		0-0
-	Orig. Fee:		N/A
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:                            		Affirm
+	Interest APR:                    		10-30
+	Desired Loan Amount:             		0-0
+	Target Credit Score:             		Fair (640-699)
+	                                		Good(700-749)
+	                                		Excellent (750-850)
+	Lend to Military:                		lend-to-military-333
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		N/A
 
 Offer:	68
-	Name:		Discover Personal Loans
-	Interest %:		6.99-29.99
-	Loan Amount:		1000-30000
-	Orig. Fee:		0
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:                            		Discover Personal Loans
+	Interest APR:                    		6.99-29.99
+	Desired Loan Amount:             		1000-30000
+	Target Credit Score:             		Fair (640-699)
+	                                		Good(700-749)
+	                                		Excellent (750-850)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		0
+	No Origination Fee:              		no-origination-fee-398
+	Institution Type:                		Bank
+	                                		Direct Lender
 
 Offer:	69
-	Name:		Reliable Credit
-	Interest %:		0-0
-	Loan Amount:		1000-0
-	Orig. Fee:		N/A
-	Min credit:		N/A
-	Max credit:		N/A
+	Name:                            		Reliable Credit
+	Interest APR:                    		0-0
+	Desired Loan Amount:             		1000-0
+	Target Credit Score:             		N/A
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		N/A
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		N/A
 
 Offer:	70
-	Name:		Finova Financial
-	Interest %:		0-30
-	Loan Amount:		0-5000
-	Orig. Fee:		N/A
-	Min credit:		Deficient (559 or below)
-	Max credit:		Fair (640-699)
-
+	Name:                            		Finova Financial
+	Interest APR:                    		0-30
+	Desired Loan Amount:             		0-5000
+	Target Credit Score:             		Deficient (559 or below)
+	                                		Poor (560-639)
+	                                		Fair (640-699)
+	Lend to Military:                		N/A
+	Pre-Approved Soft Credit Inquiry:		pre-approved-soft-credit-inquiry-555
+	Origination Fee:                 		N/A
+	No Origination Fee:              		N/A
+	Institution Type:                		Direct Lender

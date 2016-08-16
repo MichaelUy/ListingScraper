@@ -5,7 +5,7 @@
 // * $fields {}[] Assoc array of field_names labeling [class_selector, attribute] tuples
 ////////////////////////////////////////////////////////////////////////////////
 
-  $listing_selector = 'article[id=content] div[id=tfilterComp]>tbody>tr'
+  $listing_selector = 'table[id=tfilterComp] tr[id]';
 
   /*
   $fields = array(
@@ -37,17 +37,45 @@ Loan Term
   $fields = array(
     'Name' => array(
       'value' => 'innertext',
-      'field_selector' => 'tr td.bizlist-logo span.hide',
+      'field_selector' => 'td.bizlist-logo span.hide',
       'value_contains' => '' ,
-      'value_beginswith' => '' ,
-      'value_starts' => '' ,
+      // 'value_contains' => '' ,
     ),
     'Loan Term' => array(
       'value' => 'innertext',
       'field_selector' => 'tr>td.bizlist-icons>div.compare-loan-term-years',
       'value_contains' => '' ,
-      'value_beginswith' => '' ,
-      'value_starts' => '' ,
-    )
+    ),
+    'Eligible Borrowers' => array(
+      'value' => 'innertext',
+      'field_selector' => 'tr>td.bizlist-icons>div.table-tag',
+      'value_contains' => array(
+        'graduate-students',
+        'parents',
+        'undergraduate',
+        ) ,
+    ),
+   'Key Features' => array(
+      'value' => 'innertext',
+      'field_selector' => 'tr>td.bizlist-icons>div.table-tag',
+      'value_contains' => array(
+        'good-student-rewards',    
+        'no-origination-fee',    
+        'unemployment-protection'  
+        ) ,
+    ),
+   'Loan Limit' => array(
+      'value' => 'innertext',
+      'field_selector' => 'tr>td.bizlist-icons>div.table-tag',
+      'value_contains' => 'up-to-cost-of-attendance' ,
+    ),
+   'Loan Type' => array(
+      'value' => 'innertext',
+      'field_selector' => 'tr>td.bizlist-icons>div.table-tag',
+      'value_contains' => array(
+        'new-loan',    
+        'refinance'
+        ) ,
+    ),
   );
 ?>

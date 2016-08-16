@@ -1,0 +1,117 @@
+Date:	Monday 15th of August 2016 06:03:35 PM
+# of Offers:	10
+Fields:
+	Lender Name:
+	Card Name:
+	Details:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Offer:	0
+	Lender Name:		Capital One
+	Card Name:  		
+                        Capital One® Platinum Credit Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	24.99% (Variable)
+	Annual Fee:	$0
+	Credit Needed:	Fair Credit
+
+Offer:	1
+	Lender Name:		Discover
+	Card Name:  		
+                        Discover it® for Students                    
+	Details:    		
+	Purchase Intro APR:	0% for 6 months
+	Balance Transfer Intro APR:	10.99% for 6 months
+	Regular APR:	13.24%-22.24% Variable
+	Annual Fee:	$0
+	Credit Needed:	Fair Credit
+
+Offer:	2
+	Lender Name:		Capital One
+	Card Name:  		
+                        Capital One® QuicksilverOne® Cash Rewards Credit Card                    
+	Details:    		
+	Purchase Intro APR:	0% intro on purchases for 9 months
+	Balance Transfer Intro APR:	0% intro on balance transfers for 9 months
+	Regular APR:	23.24% (Variable)
+	Annual Fee:	$39
+	Credit Needed:	Fair Credit
+
+Offer:	3
+	Lender Name:		Discover
+	Card Name:  		
+                        Discover it® chrome for Students                    
+	Details:    		
+	Purchase Intro APR:	0% for 6 months
+	Balance Transfer Intro APR:	10.99% for 6 months
+	Regular APR:	13.24% - 22.24% Variable
+	Annual Fee:	$0
+	Credit Needed:	Fair Credit
+
+Offer:	4
+	Lender Name:		Capital One
+	Card Name:  		
+                        Capital One® Secured MasterCard®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	24.99% (Variable)
+	Annual Fee:	$0
+	Credit Needed:	Bad Credit
+
+Offer:	5
+	Lender Name:		Discover
+	Card Name:  		
+                        Discover it® Secured Credit Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	10.99% for 6 months
+	Regular APR:	23.24% Variable
+	Annual Fee:	$0
+	Credit Needed:	Fair/New to Credit
+
+Offer:	6
+	Lender Name:		Capital One
+	Card Name:  		
+                        Journey® Student Rewards from Capital One®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	20.24% (Variable)
+	Annual Fee:	$0
+	Credit Needed:	Fair Credit
+
+Offer:	7
+	Lender Name:		USAA Savings
+	Card Name:  		
+                        USAA Secured Card® Platinum Visa®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	10.15%-20.15% (Variable)
+	Annual Fee:	$35
+	Credit Needed:	Bad Credit
+
+Offer:	8
+	Lender Name:		Fingerhut
+	Card Name:  		
+                        Fingerhut Credit Account                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	See Issuer Website
+	Annual Fee:	$0
+	Credit Needed:	Fair/Bad Credit
+
+Offer:	9
+	Lender Name:		Gettington
+	Card Name:  		
+                        Gettington Credit                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	14.90% - 19.90%
+	Annual Fee:	$0
+	Credit Needed:	Fair Credit

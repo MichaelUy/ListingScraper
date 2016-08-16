@@ -1,0 +1,568 @@
+Date:	Monday 15th of August 2016 05:59:20 PM
+# of Offers:	51
+Fields:
+	Lender Name:
+	Card Name:
+	Details:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Offer:	0
+	Lender Name:		Chase
+	Card Name:  		
+                        Chase Freedom Unlimited℠                    
+	Details:    		
+	Purchase Intro APR:	0% for 15 months
+	Balance Transfer Intro APR:	0% for 15 months
+	Regular APR:	14.24%-23.24% Variable
+	Annual Fee:	$0
+	Credit Needed:	Excellent/Good
+
+Offer:	1
+	Lender Name:		Chase
+	Card Name:  		
+                        Chase Freedom®                    
+	Details:    		
+	Purchase Intro APR:	0% for 15 months
+	Balance Transfer Intro APR:	0% for 15 months
+	Regular APR:	14.24%-23.24% Variable
+	Annual Fee:	$0
+	Credit Needed:	Excellent/Good
+
+Offer:	2
+	Lender Name:		Discover
+	Card Name:  		
+                        Discover it® Cashback Match™                    
+	Details:    		
+	Purchase Intro APR:	0% for 12 months
+	Balance Transfer Intro APR:	0% for 12 months
+	Regular APR:	11.24% - 23.24% Variable
+	Annual Fee:	$0
+	Credit Needed:	Excellent/Good
+
+Offer:	3
+	Lender Name:		Capital One
+	Card Name:  		
+                        Capital One® Card Finder Tool                    
+	Details:    		
+	Purchase Intro APR:	See Terms
+	Balance Transfer Intro APR:	See Terms
+	Regular APR:	Various Rates
+	Annual Fee:	See Terms
+	Credit Needed:	N/A
+
+Offer:	4
+	Lender Name:		Capital One
+	Card Name:  		
+                        Capital One® Venture® Rewards Credit Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	13.24% - 23.24% (Variable)
+	Annual Fee:	$0 intro for first year; $59 after that
+	Credit Needed:	Excellent, Good
+
+Offer:	5
+	Lender Name:		Capital One
+	Card Name:  		
+                        Capital One® VentureOne® Rewards Credit Card                    
+	Details:    		
+	Purchase Intro APR:	0% intro on purchases for 12 months
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	12.24% - 22.24% (Variable)
+	Annual Fee:	$0
+	Credit Needed:	Excellent, Good
+
+Offer:	6
+	Lender Name:		Citi
+	Card Name:  		
+                        Citi® Double Cash Card                     
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	0% for 18 months*
+	Regular APR:	13.24% - 23.24%* (Variable)
+	Annual Fee:	$0*
+	Credit Needed:	Excellent/Good
+
+Offer:	7
+	Lender Name:		Chase
+	Card Name:  		
+                        Chase Slate®                    
+	Details:    		
+	Purchase Intro APR:	0% for 15 months
+	Balance Transfer Intro APR:	0% for 15 months
+	Regular APR:	13.24%-23.24% Variable
+	Annual Fee:	$0
+	Credit Needed:	Excellent/Good
+
+Offer:	8
+	Lender Name:		Capital One
+	Card Name:  		
+                        Capital One® Quicksilver® Cash Rewards Credit Card                    
+	Details:    		
+	Purchase Intro APR:	0% intro on purchases for 9 months
+	Balance Transfer Intro APR:	0% intro on balance transfers for 9 months
+	Regular APR:	13.24% - 23.24% (Variable)
+	Annual Fee:	$0
+	Credit Needed:	Excellent, Good
+
+Offer:	9
+	Lender Name:		Wells Fargo
+	Card Name:  		
+                        Wells Fargo Propel American Express® Credit Card                    
+	Details:    		
+	Purchase Intro APR:	0% for 15 months
+	Balance Transfer Intro APR:	0% for 15 months
+	Regular APR:	13.24%-25.24% (Variable)
+	Annual Fee:	$0
+	Credit Needed:	Excellent/Good
+
+Offer:	10
+	Lender Name:		Wells Fargo
+	Card Name:  		
+                        Wells Fargo Cash Wise Visa® Credit Card                    
+	Details:    		
+	Purchase Intro APR:	0% for 15 months
+	Balance Transfer Intro APR:	0% for 15 months
+	Regular APR:	13.24%-25.24% (Variable)
+	Annual Fee:	$0
+	Credit Needed:	Excellent/Good
+
+Offer:	11
+	Lender Name:		Wells Fargo
+	Card Name:  		
+                        Wells Fargo Platinum Visa® Credit Card                    
+	Details:    		
+	Purchase Intro APR:	0% for 15 months
+	Balance Transfer Intro APR:	0% for 15 months
+	Regular APR:	15.40%-25.24% (Variable)
+	Annual Fee:	$0
+	Credit Needed:	Excellent/Good
+
+Offer:	12
+	Lender Name:		Bank of America
+	Card Name:  		
+                        BankAmericard Cash Rewards™ Credit Card                    
+	Details:    		
+	Purchase Intro APR:	0% Introductory APR for 12 billing cycles
+	Balance Transfer Intro APR:	0% Intro APR for 12 billing cycles for balance transfers made in the first 60 days
+	Regular APR:	13.24% - 23.24% Variable APR on purchases and balance transfers
+	Annual Fee:	$0
+	Credit Needed:	Excellent/Good
+
+Offer:	13
+	Lender Name:		Bank of America
+	Card Name:  		
+                        BankAmericard® Credit Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	0% Intro APR for 18 billing cycles for balance transfers made in the first 60 days
+	Regular APR:	11.24% - 21.24% Variable APR on purchases and balance transfers
+	Annual Fee:	$0
+	Credit Needed:	Excellent/Good
+
+Offer:	14
+	Lender Name:		Barclaycard
+	Card Name:  		
+                        Barclaycard Rewards MasterCard®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	25.24%* Variable
+	Annual Fee:	$0
+	Credit Needed:	Fair Credit
+
+Offer:	15
+	Lender Name:		Bank of America
+	Card Name:  		
+                        MLB™ BankAmericard Cash Rewards™ MasterCard®                    
+	Details:    		
+	Purchase Intro APR:	0% Intro APR for 12 billing cycles
+	Balance Transfer Intro APR:	0% Intro APR for 12 billing cycles for balance transfers made in the first 60 days
+	Regular APR:	13.24% - 23.24% Variable APR on purchases and balance transfers
+	Annual Fee:	$0
+	Credit Needed:	Excellent/Good
+
+Offer:	16
+	Lender Name:		Bank of America
+	Card Name:  		
+                        Alaska Airlines Visa Signature® Credit Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	12.49% - 19.49% Variable APR on purchases and balance transfers
+	Annual Fee:	$75
+	Credit Needed:	Excellent/Good
+
+Offer:	17
+	Lender Name:		Bank of America
+	Card Name:  		
+                        BankAmericard Travel Rewards® Credit Card                    
+	Details:    		
+	Purchase Intro APR:	0% Introductory APR for 12 billing cycles
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	15.24% - 23.24% Variable APR on purchases and balance transfers
+	Annual Fee:	$0
+	Credit Needed:	Excellent/Good
+
+Offer:	18
+	Lender Name:		Barclaycard
+	Card Name:  		
+                        The JetBlue Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	0% for First twelve billing cycles following each balance transfer that posts to account within 45 days of 
+	Regular APR:	12.24%, 20.24% or 25.24% Variable
+	Annual Fee:	$0
+	Credit Needed:	Good to Excellent
+
+Offer:	19
+	Lender Name:		Barclaycard
+	Card Name:  		
+                        Upromise World MasterCard®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	0% for 15 months, made within the first 45 days of account opening
+	Regular APR:	14.24% - 23.24% Variable
+	Annual Fee:	$0
+	Credit Needed:	Excellent/Good
+
+Offer:	20
+	Lender Name:		Bank of America
+	Card Name:  		
+                        Susan G. Komen® Credit Card                    
+	Details:    		
+	Purchase Intro APR:	0% Intro APR for 12 billing cycles
+	Balance Transfer Intro APR:	0% Intro APR for 12 billing cycles for balance transfers made in the first 60 days
+	Regular APR:	13.24% - 23.24% Variable APR on purchases and balance transfers
+	Annual Fee:	$0
+	Credit Needed:	Excellent/Good
+
+Offer:	21
+	Lender Name:		Credit One Bank
+	Card Name:  		
+                        NASCAR® Credit Card from Credit One Bank®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	16.65%-23.90% (Variable)
+	Annual Fee:	$0 - $99
+	Credit Needed:	Good/Excellent
+
+Offer:	22
+	Lender Name:		Chase
+	Card Name:  		
+                        British Airways Visa Signature® Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	16.24%-23.24% Variable
+	Annual Fee:	$95
+	Credit Needed:	Excellent Credit
+
+Offer:	23
+	Lender Name:		Discover
+	Card Name:  		
+                        Discover it® chrome                    
+	Details:    		
+	Purchase Intro APR:	0% for 12 months
+	Balance Transfer Intro APR:	0% for 12 months
+	Regular APR:	11.24% - 23.24% Variable
+	Annual Fee:	$0
+	Credit Needed:	Excellent/Good
+
+Offer:	24
+	Lender Name:		Discover
+	Card Name:  		
+                        NHL® Discover it® Card                    
+	Details:    		
+	Purchase Intro APR:	0% for 12 months
+	Balance Transfer Intro APR:	0% for 12 months
+	Regular APR:	11.24% - 23.24% Variable
+	Annual Fee:	$0
+	Credit Needed:	Excellent/Good
+
+Offer:	25
+	Lender Name:		Citi
+	Card Name:  		
+                        Citi® Diamond Preferred® Card                    
+	Details:    		
+	Purchase Intro APR:	0%* for 21 months*
+	Balance Transfer Intro APR:	0%* for 21 months*
+	Regular APR:	12.24%-22.24%* (Variable)
+	Annual Fee:	$0*
+	Credit Needed:	Excellent/Good
+
+Offer:	26
+	Lender Name:		Citi
+	Card Name:  		
+                        Citi Simplicity® Card                    
+	Details:    		
+	Purchase Intro APR:	0%* for 21 months*
+	Balance Transfer Intro APR:	0%* for 21 months*
+	Regular APR:	13.24% - 23.24%* (Variable)
+	Annual Fee:	$0*
+	Credit Needed:	Excellent/Good
+
+Offer:	27
+	Lender Name:		Barclaycard
+	Card Name:  		
+                        NFL Extra Points Credit Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	0% for 15 months (must be completed within first forty-five days of account opening)
+	Regular APR:	15.24%, 20.24% or 25.24%* Variable
+	Annual Fee:	$0
+	Credit Needed:	Good to Excellent
+
+Offer:	28
+	Lender Name:		Barclaycard
+	Card Name:  		
+                        Barclaycard Arrival Plus™ World Elite MasterCard®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	0% for 12 months (must be completed within first forty-five days of account opening)
+	Regular APR:	16.24% or 20.24%* Variable
+	Annual Fee:	$89 - Waived first year
+	Credit Needed:	Excellent/Good
+
+Offer:	29
+	Lender Name:		NASA Federal Credit Union
+	Card Name:  		
+                        NASA Federal Visa® Platinum Advantage Rewards                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	7.900% for For life of balance transfers made within 90-days of account opening for qualified applicants
+	Regular APR:	10.15% - 17.99% Variable on purchases and balance transfers
+	Annual Fee:	$0
+	Credit Needed:	Excellent/Good
+
+Offer:	30
+	Lender Name:		USAA Savings
+	Card Name:  		
+                        USAA Preferred Cash Rewards Visa Signature Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	12.15%-26.15% (Variable)
+	Annual Fee:	$0
+	Credit Needed:	Good/Excellent
+
+Offer:	31
+	Lender Name:		USAA Savings
+	Card Name:  		
+                        USAA Rewards™ Visa®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	10.15%-26.15% (Variable)
+	Annual Fee:	$0
+	Credit Needed:	Good/Excellent
+
+Offer:	32
+	Lender Name:		American Express
+	Card Name:  		
+                        SimplyCash® Plus Business Credit Card from American Express                    
+	Details:    		
+	Purchase Intro APR:	0% for 9 months
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	12.49% - 19.49% Variable
+	Annual Fee:	No annual fee
+	Credit Needed:	Excellent Credit
+
+Offer:	33
+	Lender Name:		Barclaycard
+	Card Name:  		
+                        Barclaycard Arrival™ World MasterCard®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	0% for 12 months (must be completed within first forty-five days of account opening)
+	Regular APR:	16.24%, 20.24% or 24.24%* Variable
+	Annual Fee:	$0
+	Credit Needed:	Excellent/Good
+
+Offer:	34
+	Lender Name:		Discover
+	Card Name:  		
+                        Discover it® Miles                    
+	Details:    		
+	Purchase Intro APR:	0% for 12 months
+	Balance Transfer Intro APR:	10.99% for 12 months
+	Regular APR:	11.24% - 23.24% Variable
+	Annual Fee:	$0
+	Credit Needed:	Excellent/Good
+
+Offer:	35
+	Lender Name:		Barclaycard
+	Card Name:  		
+                        The JetBlue Plus Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	0% for First twelve billing cycles following each balance transfer that posts to account within 45 days of 
+	Regular APR:	12.24%, 20.24% or 25.24% Variable
+	Annual Fee:	$99
+	Credit Needed:	Excellent Credit
+
+Offer:	36
+	Lender Name:		Chase
+	Card Name:  		
+                        United MileagePlus® Explorer Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	16.24%-23.24% Variable
+	Annual Fee:	$0 intro annual fee for the first year, then $95
+	Credit Needed:	Excellent Credit
+
+Offer:	37
+	Lender Name:		American Express
+	Card Name:  		
+                        The Blue for Business® Credit Card from American Express                    
+	Details:    		
+	Purchase Intro APR:	0% for 9 months
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	11.49% - 19.49% Variable
+	Annual Fee:	No annual fee
+	Credit Needed:	Excellent Credit
+
+Offer:	38
+	Lender Name:		USAA Savings
+	Card Name:  		
+                        USAA Cashback Rewards Plus American Express® Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	12.15%-26.15% (Variable)
+	Annual Fee:	$0
+	Credit Needed:	Good/Excellent
+
+Offer:	39
+	Lender Name:		Genesis Bankcard Services
+	Card Name:  		
+                        Milestone® MasterCard®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	23.90%
+	Annual Fee:	$35-$99 (varies by credit level)
+	Credit Needed:	Fair Credit
+
+Offer:	40
+	Lender Name:		USAA Savings
+	Card Name:  		
+                        USAA Rewards™ American Express® Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	10.15%-26.15% (Variable)
+	Annual Fee:	$0
+	Credit Needed:	Good/Excellent
+
+Offer:	41
+	Lender Name:		Genesis Bankcard Services
+	Card Name:  		
+                        Milestone® Gold MasterCard®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	23.90%
+	Annual Fee:	$35-$99 (varies by credit level)
+	Credit Needed:	Good/Fair
+
+Offer:	42
+	Lender Name:		USAA Savings
+	Card Name:  		
+                        USAA Cash Rewards® Visa®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	10.15%-26.15% (Variable)
+	Annual Fee:	$0
+	Credit Needed:	Good/Excellent
+
+Offer:	43
+	Lender Name:		Genesis Bankcard Services
+	Card Name:  		
+                        Indigo® MasterCard®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	23.90%
+	Annual Fee:	$0 - $99
+	Credit Needed:	Fair Credit
+
+Offer:	44
+	Lender Name:		Genesis Bankcard Services
+	Card Name:  		
+                        Indigo® Unsecured MasterCard®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	23.90%
+	Annual Fee:	$0 - $99
+	Credit Needed:	Fair Credit
+
+Offer:	45
+	Lender Name:		Chase
+	Card Name:  		
+                        Southwest Airlines Rapid Rewards® Premier Credit Card                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	16.24%-23.24% Variable
+	Annual Fee:	$99
+	Credit Needed:	Excellent Credit
+
+Offer:	46
+	Lender Name:		Bank of America
+	Card Name:  		
+                        Amtrak Guest Rewards® World MasterCard®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	13.24% - 23.24% Variable APR on purchases and balance transfers
+	Annual Fee:	$79
+	Credit Needed:	Excellent/Good
+
+Offer:	47
+	Lender Name:		Genesis Bankcard Services
+	Card Name:  		
+                        Indigo® Platinum MasterCard®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	23.90%
+	Annual Fee:	$0 - $99
+	Credit Needed:	Fair Credit
+
+Offer:	48
+	Lender Name:		Genesis Bankcard Services
+	Card Name:  		
+                        Milestone® Unsecured MasterCard®                    
+	Details:    		
+	Purchase Intro APR:	N/A
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	23.90%
+	Annual Fee:	$35-$99 (varies by credit level)
+	Credit Needed:	Fair Credit
+
+Offer:	49
+	Lender Name:		Bank of America
+	Card Name:  		
+                        Bank of America® Card Finder Tool                    
+	Details:    		
+	Purchase Intro APR:	See Terms
+	Balance Transfer Intro APR:	See Terms
+	Regular APR:	See Terms 
+	Annual Fee:	See Terms 
+	Credit Needed:	Excellent/Good
+
+Offer:	50
+	Lender Name:		Citi
+	Card Name:  		
+                        Citi ThankYou® Preferred Card for College Students                    
+	Details:    		
+	Purchase Intro APR:	0%* for 7 months on Purchases*
+	Balance Transfer Intro APR:	N/A
+	Regular APR:	14.24% - 24.24%* (Variable)
+	Annual Fee:	$0*
+	Credit Needed:	Good Credit

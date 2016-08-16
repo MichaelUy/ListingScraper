@@ -1,668 +1,1144 @@
-Source:	https://www.supermoney.com/reviews/personal-loans
-Date:	Thursday 11th of August 2016 11:13:55 AM
-# of Offers:	97
-Fields||Targets:
-	Name	||tr td.bizlist-logo span.hide
-	Min APR	||tr>td.bizlist-icons>div.compare-min-apr
-	Loan Amount	||tr>td.bizlist-icons>div.compare-loan-amount
-	Min credit	||.min-credit
-	Max credit	||.max-credit
+Date:	Monday 15th of August 2016 04:31:35 PM
+# of Offers:	94
+Fields:
+	Name:
+	Min APR:
+	Desired Loan Amount:
+	Target Credit Score:
+	Key Features:
+	Loan Type:
+	Institution Type:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Offer:	0
-	Name:		LightStream
-	Min APR:		1.74
-	Loan Amount:		5000-100000
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:               		LightStream
+	Min APR:            		1.74
+	Desired Loan Amount:		5000-100000
+	Target Credit Score:		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Bank
+	                   		Direct Lender
 
 Offer:	1
-	Name:		USAA
-	Min APR:		0.74
-	Loan Amount:		15000-25000
-	Min credit:		Poor (560-639)
-	Max credit:		Excellent (750-850)
+	Name:               		USAA
+	Min APR:            		0.74
+	Desired Loan Amount:		15000-25000
+	Target Credit Score:		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Direct Lender
 
 Offer:	2
-	Name:		MyAutoLoan
-	Min APR:		1.99
-	Loan Amount:		8000-100000
-	Min credit:		Poor (560-639)
-	Max credit:		Excellent (750-850)
+	Name:               		MyAutoLoan
+	Min APR:            		1.99
+	Desired Loan Amount:		8000-100000
+	Target Credit Score:		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Credit Union
+	                   		Other
 
 Offer:	3
-	Name:		Sea Air Federal Credit Union
-	Min APR:		2
-	Loan Amount:		500-500000
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		Sea Air Federal Credit Union
+	Min APR:            		2
+	Desired Loan Amount:		500-500000
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Credit Union
 
 Offer:	4
-	Name:		Innovative Funding Services
-	Min APR:		1.89
-	Loan Amount:		0-0
-	Min credit:		Poor (560-639)
-	Max credit:		Excellent (750-850)
+	Name:               		Innovative Funding Services
+	Min APR:            		1.89
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		lease-purchase-405
+	                   		refinance-401
+	Institution Type:   		Credit Union
+	                   		Other
 
 Offer:	5
-	Name:		BB&amp;T Auto Loans
-	Min APR:		2.24
-	Loan Amount:		15-0
-	Min credit:		Good(700-749)
-	Max credit:		Excellent (750-850)
+	Name:               		BB&amp;T Auto Loans
+	Min APR:            		2.24
+	Desired Loan Amount:		15-0
+	Target Credit Score:		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Bank
+	                   		Direct Lender
 
 Offer:	6
-	Name:		RateGenius
-	Min APR:		5.15
-	Loan Amount:		10000-70000
-	Min credit:		Poor (560-639)
-	Max credit:		Excellent (750-850)
+	Name:               		RateGenius
+	Min APR:            		5.15
+	Desired Loan Amount:		10000-70000
+	Target Credit Score:		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		refinance-401
+	Institution Type:   		Credit Union
+	                   		Other
 
 Offer:	7
-	Name:		Up2Drive.com
-	Min APR:		3.29
-	Loan Amount:		7500-50000
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:               		Up2Drive.com
+	Min APR:            		3.29
+	Desired Loan Amount:		7500-50000
+	Target Credit Score:		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Bank
+	                   		Direct Lender
 
 Offer:	8
-	Name:		Capital One Auto Finance
-	Min APR:		1.99
-	Loan Amount:		7500-40000
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		Capital One Auto Finance
+	Min APR:            		1.99
+	Desired Loan Amount:		7500-40000
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Bank
 
 Offer:	9
-	Name:		BlueHarbor
-	Min APR:		1.99
-	Loan Amount:		7500-100000
-	Min credit:		Poor (560-639)
-	Max credit:		Excellent (750-850)
+	Name:               		BlueHarbor
+	Min APR:            		1.99
+	Desired Loan Amount:		7500-100000
+	Target Credit Score:		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Credit Union
 
 Offer:	10
-	Name:		iLendingDIRECT
-	Min APR:		0.99
-	Loan Amount:		7500-0
-	Min credit:		Poor (560-639)
-	Max credit:		Excellent (750-850)
+	Name:               		iLendingDIRECT
+	Min APR:            		0.99
+	Desired Loan Amount:		7500-0
+	Target Credit Score:		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		lease-purchase-405
+	                   		refinance-401
+	Institution Type:   		Other
 
 Offer:	11
-	Name:		RoadLoans.com
-	Min APR:		1.99
-	Loan Amount:		6000-70000
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		RoadLoans.com
+	Min APR:            		1.99
+	Desired Loan Amount:		6000-70000
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Direct Lender
 
 Offer:	12
-	Name:		Toyota Financial Services
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		Poor (560-639)
-	Max credit:		Excellent (750-850)
+	Name:               		Toyota Financial Services
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Other
 
 Offer:	13
-	Name:		Regions Bank Auto Loans
-	Min APR:		3.02
-	Loan Amount:		2-100
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:               		Regions Bank Auto Loans
+	Min APR:            		3.02
+	Desired Loan Amount:		2-100
+	Target Credit Score:		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Bank
 
 Offer:	14
-	Name:		BMW Financial Services
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:               		BMW Financial Services
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Other
 
 Offer:	15
-	Name:		Bank of America Auto Loans
-	Min APR:		2.49
-	Loan Amount:		5000-1000000
-	Min credit:		Poor (560-639)
-	Max credit:		Excellent (750-850)
+	Name:               		Bank of America Auto Loans
+	Min APR:            		2.49
+	Desired Loan Amount:		5000-1000000
+	Target Credit Score:		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Bank
 
 Offer:	16
-	Name:		Ford Credit
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:               		Ford Credit
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	17
-	Name:		Chase Auto Finance
-	Min APR:		2.01
-	Loan Amount:		7500-100000
-	Min credit:		Excellent (750-850)
-	Max credit:		credit-required-116
+	Name:               		Chase Auto Finance
+	Min APR:            		2.01
+	Desired Loan Amount:		7500-100000
+	Target Credit Score:		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Bank
 
 Offer:	18
-	Name:		Sovereign Bank Loans
-	Min APR:		2.54
-	Loan Amount:		0-0
-	Min credit:		N/A
-	Max credit:		N/A
+	Name:               		Sovereign Bank Loans
+	Min APR:            		2.54
+	Desired Loan Amount:		0-0
+	Target Credit Score:		N/A
+	Key Features:       		N/A
+	Loan Type:          		N/A
+	Institution Type:   		N/A
 
 Offer:	19
-	Name:		Autopay
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		N/A
-	Max credit:		N/A
+	Name:               		Autopay
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		N/A
+	Key Features:       		N/A
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Other
 
 Offer:	20
-	Name:		Santander Consumer USA
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		Fair (640-699)
-	Max credit:		N/A
+	Name:               		Santander Consumer USA
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Other
 
 Offer:	21
-	Name:		Subaru Motors Finance
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		N/A
-	Max credit:		Excellent (750-850)
+	Name:               		Subaru Motors Finance
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	22
-	Name:		Fifth Third Bank Auto Loans
-	Min APR:		2.74
-	Loan Amount:		10000-70000
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:               		Fifth Third Bank Auto Loans
+	Min APR:            		2.74
+	Desired Loan Amount:		10000-70000
+	Target Credit Score:		Good(700-749)
+	Key Features:       		N/A
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Bank
 
 Offer:	23
-	Name:		Honda Financial Services
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		Good(700-749)
-	Max credit:		credit-required-115
+	Name:               		Honda Financial Services
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	24
-	Name:		GMAC Automotive Financing
-	Min APR:		N/A
-	Loan Amount:		100-1000
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:               		GMAC Automotive Financing
+	Min APR:            		N/A
+	Desired Loan Amount:		100-1000
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Other
 
 Offer:	25
-	Name:		Mercedes-Benz
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		Mercedes-Benz
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		N/A
+	Institution Type:   		N/A
 
 Offer:	26
-	Name:		Infiniti Financing
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:               		Infiniti Financing
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Other
 
 Offer:	27
-	Name:		Nissan Motor Acceptance Corporation
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:               		Nissan Motor Acceptance Corporation
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Other
 
 Offer:	28
-	Name:		Wells Fargo Auto Loans
-	Min APR:		3.1
-	Loan Amount:		5000-25000
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:               		Wells Fargo Auto Loans
+	Min APR:            		3.1
+	Desired Loan Amount:		5000-25000
+	Target Credit Score:		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Bank
+	                   		Direct Lender
 
 Offer:	29
-	Name:		VW Credit
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		Excellent (750-850)
-	Max credit:		credit-required-116
+	Name:               		VW Credit
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Other
 
 Offer:	30
-	Name:		SunTrust
-	Min APR:		2.99
-	Loan Amount:		5000-100000
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:               		SunTrust
+	Min APR:            		2.99
+	Desired Loan Amount:		5000-100000
+	Target Credit Score:		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Bank
+	                   		Direct Lender
 
 Offer:	31
-	Name:		Lexus Financial Services
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		Excellent (750-850)
-	Max credit:		credit-required-116
+	Name:               		Lexus Financial Services
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	32
-	Name:		Hyundai Motor Finance
-	Min APR:		0
-	Loan Amount:		0-0
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:               		Hyundai Motor Finance
+	Min APR:            		0
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Other
 
 Offer:	33
-	Name:		Harris Bank Auto Loans
-	Min APR:		4.3
-	Loan Amount:		5000-15000
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:               		Harris Bank Auto Loans
+	Min APR:            		4.3
+	Desired Loan Amount:		5000-15000
+	Target Credit Score:		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Bank
 
 Offer:	34
-	Name:		State Farm
-	Min APR:		2.34
-	Loan Amount:		5000-250000
-	Min credit:		Excellent (750-850)
-	Max credit:		credit-required-116
+	Name:               		State Farm
+	Min APR:            		2.34
+	Desired Loan Amount:		5000-250000
+	Target Credit Score:		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		N/A
+	Institution Type:   		Bank
+	                   		Direct Lender
 
 Offer:	35
-	Name:		US Bank
-	Min APR:		2.49
-	Loan Amount:		10000-100000
-	Min credit:		Excellent (750-850)
-	Max credit:		credit-required-116
+	Name:               		US Bank
+	Min APR:            		2.49
+	Desired Loan Amount:		10000-100000
+	Target Credit Score:		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Bank
 
 Offer:	36
-	Name:		CarLoan
-	Min APR:		3.14
-	Loan Amount:		5000-100000
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:               		CarLoan
+	Min APR:            		3.14
+	Desired Loan Amount:		5000-100000
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	37
-	Name:		First Internet Bank
-	Min APR:		3.25
-	Loan Amount:		5000-0
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		First Internet Bank
+	Min APR:            		3.25
+	Desired Loan Amount:		5000-0
+	Target Credit Score:		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Bank
 
 Offer:	38
-	Name:		DRIVERUP
-	Min APR:		8
-	Loan Amount:		0-0
-	Min credit:		Fair (640-699)
-	Max credit:		Excellent (750-850)
+	Name:               		DRIVERUP
+	Min APR:            		8
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	39
-	Name:		Navy Federal Credit Union Auto Loan
-	Min APR:		1.79
-	Loan Amount:		5000-100000
-	Min credit:		Poor (560-639)
-	Max credit:		Excellent (750-850)
+	Name:               		Navy Federal Credit Union Auto Loan
+	Min APR:            		1.79
+	Desired Loan Amount:		5000-100000
+	Target Credit Score:		Fair (640-699)
+	Key Features:       		N/A
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Credit Union
 
 Offer:	40
-	Name:		Ally Bank Auto Loan
-	Min APR:		0
-	Loan Amount:		1000-100000
-	Min credit:		Fair (640-699)
-	Max credit:		credit-required-114
+	Name:               		Ally Bank Auto Loan
+	Min APR:            		0
+	Desired Loan Amount:		1000-100000
+	Target Credit Score:		Poor (560-639)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	Institution Type:   		Bank
 
 Offer:	41
-	Name:		OpenRoad Lending
-	Min APR:		3.24
-	Loan Amount:		7500-0
-	Min credit:		Poor (560-639)
-	Max credit:		credit-required-113
+	Name:               		OpenRoad Lending
+	Min APR:            		3.24
+	Desired Loan Amount:		7500-0
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Direct Lender
 
 Offer:	42
-	Name:		HuntingtonAuto Loans
-	Min APR:		4.41
-	Loan Amount:		3000-100000
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		HuntingtonAuto Loans
+	Min APR:            		4.41
+	Desired Loan Amount:		3000-100000
+	Target Credit Score:		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Bank
 
 Offer:	43
-	Name:		Westlake Financial Services Auto Loan
-	Min APR:		15.99
-	Loan Amount:		1000-25000
-	Min credit:		Excellent (750-850)
-	Max credit:		credit-required-116
+	Name:               		Westlake Financial Services Auto Loan
+	Min APR:            		15.99
+	Desired Loan Amount:		1000-25000
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Other
 
 Offer:	44
-	Name:		Credit Acceptance Corporation
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		Credit Acceptance Corporation
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	45
-	Name:		Exeter Finance
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		Exeter Finance
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Other
 
 Offer:	46
-	Name:		CarFinance.com
-	Min APR:		N/A
-	Loan Amount:		10000-100000
-	Min credit:		Poor (560-639)
-	Max credit:		Excellent (750-850)
+	Name:               		CarFinance.com
+	Min APR:            		N/A
+	Desired Loan Amount:		10000-100000
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Direct Lender
 
 Offer:	47
-	Name:		Springleaf Financial Auto Loans
-	Min APR:		25
-	Loan Amount:		1500-10000
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		Springleaf Financial Auto Loans
+	Min APR:            		25
+	Desired Loan Amount:		1500-10000
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		refinance-401
+	Institution Type:   		Direct Lender
 
 Offer:	48
-	Name:		Citizens One Auto Finance Auto Loan
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		Citizens One Auto Finance Auto Loan
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Fair (640-699)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Direct Lender
 
 Offer:	49
-	Name:		First Investors Financial Services Auto Refinance
-	Min APR:		7
-	Loan Amount:		8000-40000
-	Min credit:		Fair (640-699)
-	Max credit:		credit-required-114
+	Name:               		First Investors Financial Services Auto Refinance
+	Min APR:            		7
+	Desired Loan Amount:		8000-40000
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		bizname-first-investors-financial-services-auto-refinance
+	                   		refinance-401
+	Institution Type:   		Direct Lender
+	                   		Other
 
 Offer:	50
-	Name:		Auto Credit Express
-	Min APR:		5
-	Loan Amount:		5000-100000
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		Auto Credit Express
+	Min APR:            		5
+	Desired Loan Amount:		5000-100000
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	51
-	Name:		M&amp;T Bank Auto Loans
-	Min APR:		3.24
-	Loan Amount:		2000-100000
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		M&amp;T Bank Auto Loans
+	Min APR:            		3.24
+	Desired Loan Amount:		2000-100000
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Bank
 
 Offer:	52
-	Name:		PNC Bank Auto Loans
-	Min APR:		1.84
-	Loan Amount:		7500-50000
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		PNC Bank Auto Loans
+	Min APR:            		1.84
+	Desired Loan Amount:		7500-50000
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Bank
 
 Offer:	53
-	Name:		888 Drop My Rate
-	Min APR:		5 - 15
-	Loan Amount:		0-0
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		888 Drop My Rate
+	Min APR:            		5 - 15
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	Key Features:       		N/A
+	Loan Type:          		refinance-401
+	Institution Type:   		Direct Lender
 
 Offer:	54
-	Name:		Aqua Finance - Securite, Inc
-	Min APR:		N/A
-	Loan Amount:		1000-0
-	Min credit:		Deficient (559 or below)
-	Max credit:		Fair (640-699)
+	Name:               		Aqua Finance - Securite, Inc
+	Min APR:            		N/A
+	Desired Loan Amount:		1000-0
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Other
 
 Offer:	55
-	Name:		Automobile Consumer Services, Inc
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		Automobile Consumer Services, Inc
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		N/A
+	Key Features:       		N/A
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	56
-	Name:		Beacon Community Credit Union
-	Min APR:		2.49
-	Loan Amount:		0-0
-	Min credit:		N/A
-	Max credit:		N/A
+	Name:               		Beacon Community Credit Union
+	Min APR:            		2.49
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Credit Union
 
 Offer:	57
-	Name:		CURE Lending LLC
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		CURE Lending LLC
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	58
-	Name:		Eastside Nissan - Bellevue Nissan
-	Min APR:		0
-	Loan Amount:		0-0
-	Min credit:		Deficient (559 or below)
-	Max credit:		Fair (640-699)
+	Name:               		Eastside Nissan - Bellevue Nissan
+	Min APR:            		0
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	Institution Type:   		Direct Lender
 
 Offer:	59
-	Name:		Elgin Hyundai
-	Min APR:		0
-	Loan Amount:		0-0
-	Min credit:		Deficient (559 or below)
-	Max credit:		Fair (640-699)
+	Name:               		Elgin Hyundai
+	Min APR:            		0
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	60
-	Name:		Essex Credit
-	Min APR:		3.79
-	Loan Amount:		10000-5000000
-	Min credit:		Good(700-749)
-	Max credit:		Excellent (750-850)
+	Name:               		Essex Credit
+	Min APR:            		3.79
+	Desired Loan Amount:		10000-5000000
+	Target Credit Score:		Fair (640-699)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Direct Lender
 
 Offer:	61
-	Name:		Fleet Financial
-	Min APR:		2.39
-	Loan Amount:		7500-40000
-	Min credit:		Fair (640-699)
-	Max credit:		credit-required-114
+	Name:               		Fleet Financial
+	Min APR:            		2.39
+	Desired Loan Amount:		7500-40000
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	Key Features:       		N/A
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Other
 
 Offer:	62
-	Name:		Georgia's Own Credit Union
-	Min APR:		2.10
-	Loan Amount:		15000-0
-	Min credit:		Deficient (559 or below)
-	Max credit:		Fair (640-699)
+	Name:               		Georgia's Own Credit Union
+	Min APR:            		2.10
+	Desired Loan Amount:		15000-0
+	Target Credit Score:		N/A
+	Key Features:       		N/A
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Credit Union
 
 Offer:	63
-	Name:		Globe Loan Company
-	Min APR:		N/A
-	Loan Amount:		500-0
-	Min credit:		N/A
-	Max credit:		N/A
+	Name:               		Globe Loan Company
+	Min APR:            		N/A
+	Desired Loan Amount:		500-0
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		N/A
 
 Offer:	64
-	Name:		Grossinger City Autoplex
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		Deficient (559 or below)
-	Max credit:		Fair (640-699)
+	Name:               		Grossinger City Autoplex
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	65
-	Name:		Help Me Ride
-	Min APR:		N/A
-	Loan Amount:		0-14000
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		Help Me Ride
+	Min APR:            		N/A
+	Desired Loan Amount:		0-14000
+	Target Credit Score:		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	66
-	Name:		iNet Lending and Insurance
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		Poor (560-639)
-	Max credit:		Excellent (750-850)
+	Name:               		iNet Lending and Insurance
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		N/A
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	67
-	Name:		J.J. Best Banc
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		N/A
-	Max credit:		N/A
+	Name:               		J.J. Best Banc
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		N/A
+	Key Features:       		N/A
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Other
 
 Offer:	68
-	Name:		Kemba Credit Union
-	Min APR:		3.19
-	Loan Amount:		2500-30000
-	Min credit:		N/A
-	Max credit:		N/A
+	Name:               		Kemba Credit Union
+	Min APR:            		3.19
+	Desired Loan Amount:		2500-30000
+	Target Credit Score:		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Credit Union
 
 Offer:	69
-	Name:		Larry H. Miller Chrysler Dodge Jeep Ram Surprise
-	Min APR:		0
-	Loan Amount:		0-0
-	Min credit:		Good(700-749)
-	Max credit:		N/A
+	Name:               		Larry H. Miller Chrysler Dodge Jeep Ram Surprise
+	Min APR:            		0
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	70
-	Name:		Larry Miller Toyota of Colorado Springs
-	Min APR:		0
-	Loan Amount:		5000-0
-	Min credit:		N/A
-	Max credit:		Excellent (750-850)
+	Name:               		Larry Miller Toyota of Colorado Springs
+	Min APR:            		0
+	Desired Loan Amount:		5000-0
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	71
-	Name:		Larry Miller VolksWagen of LakeWood CO
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		Larry Miller VolksWagen of LakeWood CO
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	72
-	Name:		Liberty Auto City
-	Min APR:		3.9
-	Loan Amount:		0-0
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		Liberty Auto City
+	Min APR:            		3.9
+	Desired Loan Amount:		0-0
+	Target Credit Score:		N/A
+	Key Features:       		N/A
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Other
 
 Offer:	73
-	Name:		My Car Loan Plus
-	Min APR:		12.95
-	Loan Amount:		2500-50000
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		My Car Loan Plus
+	Min APR:            		12.95
+	Desired Loan Amount:		2500-50000
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Direct Lender
 
 Offer:	74
-	Name:		Northstar Credit Union
-	Min APR:		2.79
-	Loan Amount:		0-0
-	Min credit:		N/A
-	Max credit:		N/A
+	Name:               		Northstar Credit Union
+	Min APR:            		2.79
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	Key Features:       		N/A
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Credit Union
 
 Offer:	75
-	Name:		Peak Acceptance
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		Deficient (559 or below)
-	Max credit:		Poor (560-639)
+	Name:               		Peak Acceptance
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		N/A
+	Key Features:       		N/A
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	76
-	Name:		Prestige Financial
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		Deficient (559 or below)
-	Max credit:		Fair (640-699)
+	Name:               		Prestige Financial
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Direct Lender
 
 Offer:	77
-	Name:		Prime Capital Auto Lease
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		N/A
-	Max credit:		N/A
+	Name:               		Prime Capital Auto Lease
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		N/A
+	Key Features:       		N/A
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	78
-	Name:		Ray Skillman Auto Center
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		Ray Skillman Auto Center
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	Key Features:       		N/A
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	79
-	Name:		Reagor - Dykes Toyota
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		N/A
-	Max credit:		N/A
+	Name:               		Reagor - Dykes Toyota
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	80
-	Name:		Red Rocks Credit Union
-	Min APR:		N/A
-	Loan Amount:		0-80000
-	Min credit:		Deficient (559 or below)
-	Max credit:		Fair (640-699)
+	Name:               		Red Rocks Credit Union
+	Min APR:            		N/A
+	Desired Loan Amount:		0-80000
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Credit Union
 
 Offer:	81
-	Name:		Regional Hyundai
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		Regional Hyundai
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		N/A
+	Key Features:       		N/A
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	82
-	Name:		Regional Management Corp.
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		Regional Management Corp.
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	83
-	Name:		Reliable Credit
-	Min APR:		17.99
-	Loan Amount:		1000-0
-	Min credit:		N/A
-	Max credit:		N/A
+	Name:               		Reliable Credit
+	Min APR:            		17.99
+	Desired Loan Amount:		1000-0
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	84
-	Name:		Sierra Point Credit Union
-	Min APR:		2.99
-	Loan Amount:		0-0
-	Min credit:		Deficient (559 or below)
-	Max credit:		Fair (640-699)
+	Name:               		Sierra Point Credit Union
+	Min APR:            		2.99
+	Desired Loan Amount:		0-0
+	Target Credit Score:		N/A
+	Key Features:       		N/A
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Credit Union
 
 Offer:	85
-	Name:		Southeast Financial Credit Union
-	Min APR:		2
-	Loan Amount:		20000-0
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		Southeast Financial Credit Union
+	Min APR:            		2
+	Desired Loan Amount:		20000-0
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Credit Union
 
 Offer:	86
-	Name:		Spectrum Federal Credit Union
-	Min APR:		1.99
-	Loan Amount:		0-0
-	Min credit:		N/A
-	Max credit:		N/A
+	Name:               		Spectrum Federal Credit Union
+	Min APR:            		1.99
+	Desired Loan Amount:		0-0
+	Target Credit Score:		N/A
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Credit Union
 
 Offer:	87
-	Name:		SpringboardAuto.com
-	Min APR:		N/A
-	Loan Amount:		5000-45000
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
+	Name:               		SpringboardAuto.com
+	Min APR:            		N/A
+	Desired Loan Amount:		5000-45000
+	Target Credit Score:		N/A
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Other
 
 Offer:	88
-	Name:		Unify Lenders
-	Min APR:		1.99
-	Loan Amount:		0-0
-	Min credit:		N/A
-	Max credit:		N/A
+	Name:               		Unify Lenders
+	Min APR:            		1.99
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Other
 
 Offer:	89
-	Name:		Altura Credit Union - AUTO
-	Min APR:		2.58
-	Loan Amount:		0-0
-	Min credit:		N/A
-	Max credit:		N/A
+	Name:               		Altura Credit Union - AUTO
+	Min APR:            		2.58
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Fair (640-699)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Credit Union
 
 Offer:	90
-	Name:		Western Preferred Financial
-	Min APR:		0.74
-	Loan Amount:		0-0
-	Min credit:		Fair (640-699)
-	Max credit:		N/A
+	Name:               		Western Preferred Financial
+	Min APR:            		0.74
+	Desired Loan Amount:		0-0
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		lease-purchase-405
+	                   		new-car-loan-2-403
+	                   		refinance-401
+	Institution Type:   		Other
 
 Offer:	91
-	Name:		Wilshire Consumer Credit
-	Min APR:		N/A
-	Loan Amount:		0-50000
-	Min credit:		N/A
-	Max credit:		Excellent (750-850)
+	Name:               		Wilshire Consumer Credit
+	Min APR:            		N/A
+	Desired Loan Amount:		0-50000
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		N/A
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	92
-	Name:		Zeigler Chevrolet
-	Min APR:		N/A
-	Loan Amount:		0-0
-	Min credit:		Fair (640-699)
-	Max credit:		credit-required-114
+	Name:               		Zeigler Chevrolet
+	Min APR:            		N/A
+	Desired Loan Amount:		0-0
+	Target Credit Score:		N/A
+	Key Features:       		N/A
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Other
 
 Offer:	93
-	Name:		Regional Finance
-	Min APR:		N/A
-	Loan Amount:		2500-27000
-	Min credit:		Deficient (559 or below)
-	Max credit:		Excellent (750-850)
-
+	Name:               		Regional Finance
+	Min APR:            		N/A
+	Desired Loan Amount:		2500-27000
+	Target Credit Score:		Deficient (559 or below)
+	                   		Poor (560-639)
+	                   		Fair (640-699)
+	                   		Good(700-749)
+	                   		Excellent (750-850)
+	Key Features:       		no-prepayment-penalty-399
+	Loan Type:          		new-car-loan-2-403
+	Institution Type:   		Other
